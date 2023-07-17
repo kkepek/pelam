@@ -81,6 +81,9 @@ https://pixeldrain.com/api/file/Ynzog5dQ
 #EXTINF:-1 tvg-logo="https://ngefilm21.club/wp-content/uploads/2022/10/6O9lx7VazuI1OixBm7iPREDWcsQ-170x255.jpg" group-title="VOD Vivamax",[2023] Tubero
 https://pixeldrain.com/api/file/5y1onQAX
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg" group-title="VOD The Lord of the Rings",[2008] The Dark Knight
+https://pixeldrain.com/api/file/Ss8Zjus8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg" group-title="VOD The Expendables",[2014] The Expendables 3
 https://pixeldrain.com/api/file/mDexce8u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg" group-title="VOD The Expendables",[2012] The Expendables 2
@@ -91,7 +94,8 @@ https://pixeldrain.com/api/file/zxkjp8vB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/EsdlaIII.jpg" group-title="VOD The Lord of the Rings",[2003] The Lord of the Rings: The Return of the King
 https://pixeldrain.com/api/file/Ss8Zjus8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg" group-title="VOD The Lord of the Rings",[2008] The Lord of the Rings
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8a/Dark_Knight.jpg" group-title="VOD The Lord of the Rings",[2008] The Dark Knight
+https://pixeldrain.com/api/file/Ss8Zjus8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S355DcWqvF0/W3v5BQNMjJI/AAAAAAAAA4I/0HtbaAxcp1QxHd26eFMngxDzsK8gOdwQwCLcBGAs/s1600/the%2Bgood.jpg" group-title="VOD The Godfather",[1972] The Godfather
 https://pixeldrain.com/api/file/T4z9KYGp
