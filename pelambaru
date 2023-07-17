@@ -9,7 +9,7 @@ https://pixeldrain.com/api/file/WSKGUTgd
 #EXTINF:-1 tvg-logo="https://onionplay-network.stream/2022/02/ppd84D2i9W8jXmsyInGyihiSyqz-200x300.jpg" group-title="IMDb Top 250",5. [1957] 12 Angry Man
 https://pixeldrain.com/api/file/8xHG2aXK
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg" group-title="IMDb Top 250",6. [1993] Schindler's List
-https://pixeldrain.com/api/file/Ss8Zjus8
+https://pixeldrain.com/api/file/wCHrDynE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/EsdlaIII.jpg" group-title="IMDb Top 250",7. [2003] The Lord of the Rings: The Return of the King
 https://pixeldrain.com/api/file/Ss8Zjus8
 
@@ -26,6 +26,9 @@ https://pixeldrain.com/api/file/WgZ1Eidm
 https://pixeldrain.com/api/file/BCLQ4aaV
 #EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/07/1689304055-9738-3ErZoOW5gPQCeoT6TK4oyn7gW4c.jpg" group-title="VOD Adventure",[2023] Headhunter
 https://pixeldrain.com/api/file/TRuzboyh
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg" group-title="VOD Biography",[1993] Schindler's List
+https://pixeldrain.com/api/file/wCHrDynE
 
 #EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/07/1688528880-1238-7uJkLigRamfHerFSkfFOCMqH0pi.jpg" group-title="VOD Crime",[2023] iNumber Number: Jozi Gold
 https://pixeldrain.com/api/file/cKdqiw7T
@@ -77,6 +80,13 @@ https://pixeldrain.com/api/file/WByBgho1
 https://pixeldrain.com/api/file/Ynzog5dQ
 #EXTINF:-1 tvg-logo="https://ngefilm21.club/wp-content/uploads/2022/10/6O9lx7VazuI1OixBm7iPREDWcsQ-170x255.jpg" group-title="VOD Vivamax",[2023] Tubero
 https://pixeldrain.com/api/file/5y1onQAX
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg" group-title="VOD The Expendables",[2014] The Expendables 3
+https://pixeldrain.com/api/file/mDexce8u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg" group-title="VOD The Expendables",[2012] The Expendables 2
+https://pixeldrain.com/api/file/sgM69RAA
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg" group-title="VOD The Expendables",[2010] The Expendables
+https://pixeldrain.com/api/file/zxkjp8vB
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/EsdlaIII.jpg" group-title="VOD The Lord of the Rings",[2003] The Lord of the Rings: The Return of the King
 https://pixeldrain.com/api/file/Ss8Zjus8
