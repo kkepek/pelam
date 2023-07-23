@@ -526,3 +526,16 @@ http://kuchini.site:8080/devtv/5af3eeb538/1495
 http://kuchini.site:8080/devtv/5af3eeb538/281487
 #EXTINF:-1 tvg-logo="" group-title="Sport TV",SPORT TV NBA
 http://kuchini.site:8080/devtv/5af3eeb538/2051
+
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports
+http://kuchini.site:8080/devtv/5af3eeb538/3204
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports 2
+http://kuchini.site:8080/devtv/5af3eeb538/286127
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports 3
+http://kuchini.site:8080/devtv/5af3eeb538/286128
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports 4
+http://kuchini.site:8080/devtv/5af3eeb538/286129
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports 5
+http://kuchini.site:8080/devtv/5af3eeb538/286130
+#EXTINF:-1 tvg-logo="" group-title="TNT Sport",TNT Sports 5 Brasil
+http://kuchini.site:8080/devtv/5af3eeb538/299064
