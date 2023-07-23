@@ -1,15 +1,3 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T25vzKt/astroarena.png" group-title="Sport Backup 1",Astro Arena
-http://kuchini.site:8080/devtv/5af3eeb538/157485
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTbjrgV/assp1.png" group-title="Sport Backup 1",Astro SuperSport
-http://kuchini.site:8080/devtv/5af3eeb538/146068
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JsSBchg/assp2.png" group-title="Sport Backup 1",Astro SuperSport 2
-http://kuchini.site:8080/devtv/5af3eeb538/157556
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1n2xkj/assp3.png" group-title="Sport Backup 1",Astro SuperSport 3
-http://kuchini.site:8080/devtv/5af3eeb538/157557
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qBmQ7jP/assp4.png" group-title="Sport Backup 1",Astro SuperSport 4
-http://kuchini.site:8080/devtv/5af3eeb538/157558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w72bvbC/assp5.png" group-title="Sport Backup 1",Astro SuperSport 5
-http://kuchini.site:8080/devtv/5af3eeb538/287792
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 1
 http://kuchini.site:8080/devtv/5af3eeb538/270
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 2
@@ -23,51 +11,64 @@ tp://kuchini.site:8080/devtv/5af3eeb538/692
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",Eurosport 2
 http://kuchini.site:8080/devtv/5af3eeb538/1555
 
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T25vzKt/astroarena.png" group-title="Astro Sport",Astro Arena
+http://kuchini.site:8080/devtv/5af3eeb538/157485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTbjrgV/assp1.png" group-title="Astro Sport",Astro SuperSport
+http://kuchini.site:8080/devtv/5af3eeb538/146068
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsSBchg/assp2.png" group-title="Astro Sport",Astro SuperSport 2
+http://kuchini.site:8080/devtv/5af3eeb538/157556
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D1n2xkj/assp3.png" group-title="Astro Sport",Astro SuperSport 3
+http://kuchini.site:8080/devtv/5af3eeb538/157557
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qBmQ7jP/assp4.png" group-title="Astro Sport",Astro SuperSport 4
+http://kuchini.site:8080/devtv/5af3eeb538/157558
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w72bvbC/assp5.png" group-title="Astro Sport",Astro SuperSport 5
+http://kuchini.site:8080/devtv/5af3eeb538/287792
+
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/11637
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Football
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Football
 http://kuchini.site:8080/devtv/5af3eeb538/38575
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Golf
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Golf
 http://kuchini.site:8080/devtv/5af3eeb538/11641
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Grandstand
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Grandstand
 http://kuchini.site:8080/devtv/5af3eeb538/194353
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport LaLiga
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport LaLiga
 http://kuchini.site:8080/devtv/5af3eeb538/194358
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Motorsport
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Motorsport
 http://kuchini.site:8080/devtv/5af3eeb538/11638
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Premier League
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Premier League
 http://kuchini.site:8080/devtv/5af3eeb538/11642
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport PSL
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport PSL
 http://kuchini.site:8080/devtv/5af3eeb538/11643
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Rugby
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Rugby
 http://kuchini.site:8080/devtv/5af3eeb538/11639
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Tennis
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Tennis
 http://kuchini.site:8080/devtv/5af3eeb538/15200
 
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Action
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Action
 http://kuchini.site:8080/devtv/5af3eeb538/268
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Arena
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Arena
 http://kuchini.site:8080/devtv/5af3eeb538/267
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Cricket
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/269
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports F1
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports F1
 http://kuchini.site:8080/devtv/5af3eeb538/265
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Football
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Football
 http://kuchini.site:8080/devtv/5af3eeb538/266
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Golf
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Golf
 http://kuchini.site:8080/devtv/5af3eeb538/264
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Main Event
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Main Event
 http://kuchini.site:8080/devtv/5af3eeb538/283053
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Mix
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Mix
 http://kuchini.site:8080/devtv/5af3eeb538/261
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports News
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports News
 http://kuchini.site:8080/devtv/5af3eeb538/260
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Premier League
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Premier League
 http://kuchini.site:8080/devtv/5af3eeb538/263
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Racing
+#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Racing
 http://kuchini.site:8080/devtv/5af3eeb538/163132
 
 
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",
+#EXTINF:-1 tvg-logo="" group-title="SuperSport",
 
 
