@@ -1,15 +1,29 @@
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 1
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",BT Sport 1
 http://kuchini.site:8080/devtv/5af3eeb538/270
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 2
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",BT Sport 2
 http://kuchini.site:8080/devtv/5af3eeb538/273
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 3
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",BT Sport 3
 http://kuchini.site:8080/devtv/5af3eeb538/271
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",BT Sport 4
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",BT Sport 4
 http://kuchini.site:8080/devtv/5af3eeb538/298471
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",Eurosport 1
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Eurosport 1
 tp://kuchini.site:8080/devtv/5af3eeb538/692
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",Eurosport 2
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Eurosport 2
 http://kuchini.site:8080/devtv/5af3eeb538/1555
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",True Premier Football 1
+http://kuchini.site:8080/devtv/5af3eeb538/162591
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",True Premier Football 2
+http://kuchini.site:8080/devtv/5af3eeb538/162592
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",True Sport 4
+http://kuchini.site:8080/devtv/5af3eeb538/285569
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",True Vision NBA
+http://kuchini.site:8080/devtv/5af3eeb538/281638
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Champion TV 1
+http://kuchini.site:8080/devtv/5af3eeb538/298512
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Champion TV 2
+http://kuchini.site:8080/devtv/5af3eeb538/298513
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Champion TV 3
+http://kuchini.site:8080/devtv/5af3eeb538/298514
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T25vzKt/astroarena.png" group-title="Astro Sport",Astro Arena
 http://kuchini.site:8080/devtv/5af3eeb538/157485
@@ -23,6 +37,55 @@ http://kuchini.site:8080/devtv/5af3eeb538/157557
 http://kuchini.site:8080/devtv/5af3eeb538/157558
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w72bvbC/assp5.png" group-title="Astro Sport",Astro SuperSport 5
 http://kuchini.site:8080/devtv/5af3eeb538/287792
+
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports
+http://kuchini.site:8080/devtv/5af3eeb538/280725
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 1
+http://kuchini.site:8080/devtv/5af3eeb538/100
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 2
+http://kuchini.site:8080/devtv/5af3eeb538/101
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 3
+http://kuchini.site:8080/devtv/5af3eeb538/102
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 4
+http://kuchini.site:8080/devtv/5af3eeb538/103
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 5
+http://kuchini.site:8080/devtv/5af3eeb538/104
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 6
+http://kuchini.site:8080/devtv/5af3eeb538/105
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 7
+http://kuchini.site:8080/devtv/5af3eeb538/106
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports English 1
+http://kuchini.site:8080/devtv/5af3eeb538/110
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports English 2
+http://kuchini.site:8080/devtv/5af3eeb538/111
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports English 3
+http://kuchini.site:8080/devtv/5af3eeb538/267769
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 1
+http://kuchini.site:8080/devtv/5af3eeb538/296991
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 2
+http://kuchini.site:8080/devtv/5af3eeb538/199001
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 3
+http://kuchini.site:8080/devtv/5af3eeb538/296992
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 4
+http://kuchini.site:8080/devtv/5af3eeb538/13813
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 8
+http://kuchini.site:8080/devtv/5af3eeb538/298192
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Max 9
+http://kuchini.site:8080/devtv/5af3eeb538/13816
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports NBA
+http://kuchini.site:8080/devtv/5af3eeb538/15962
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports News
+http://kuchini.site:8080/devtv/5af3eeb538/1266
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 1
+http://kuchini.site:8080/devtv/5af3eeb538/109
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 2
+http://kuchini.site:8080/devtv/5af3eeb538/280145
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 3
+http://kuchini.site:8080/devtv/5af3eeb538/280249
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Xtra 1
+http://kuchini.site:8080/devtv/5af3eeb538/290037
+#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Xtra 2
+http://kuchini.site:8080/devtv/5af3eeb538/283294
 
 #EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/11637
@@ -68,7 +131,113 @@ http://kuchini.site:8080/devtv/5af3eeb538/263
 #EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Racing
 http://kuchini.site:8080/devtv/5af3eeb538/163132
 
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Extra
+http://kuchini.site:8080/devtv/5af3eeb538/353
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport FIGHT
+http://kuchini.site:8080/devtv/5af3eeb538/26592
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport News
+http://kuchini.site:8080/devtv/5af3eeb538/355
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 1
+http://kuchini.site:8080/devtv/5af3eeb538/23199
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 2
+http://kuchini.site:8080/devtv/5af3eeb538/29607
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 3
+http://kuchini.site:8080/devtv/5af3eeb538/147031
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 4
+http://kuchini.site:8080/devtv/5af3eeb538/147034
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 5
+http://kuchini.site:8080/devtv/5af3eeb538/147035
+#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 6
+http://kuchini.site:8080/devtv/5af3eeb538/147036
 
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC 1
+http://kuchini.site:8080/devtv/5af3eeb538/280132
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC 2
+http://kuchini.site:8080/devtv/5af3eeb538/280137
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC 3
+http://kuchini.site:8080/devtv/5af3eeb538/280134
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC 4
+http://kuchini.site:8080/devtv/5af3eeb538/280133
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC 5
+http://kuchini.site:8080/devtv/5af3eeb538/280135
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC Extra 1
+http://kuchini.site:8080/devtv/5af3eeb538/280136
+#EXTINF:-1 tvg-logo="" group-title="SSC Sport",SSC Extra 2
+http://kuchini.site:8080/devtv/5af3eeb538/281462
 
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 1
+http://kuchini.site:8080/devtv/5af3eeb538/1499
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 2
+http://kuchini.site:8080/devtv/5af3eeb538/1503
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 3
+http://kuchini.site:8080/devtv/5af3eeb538/1506
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 4
+http://kuchini.site:8080/devtv/5af3eeb538/1509
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 5
+http://kuchini.site:8080/devtv/5af3eeb538/1512
+#EXTINF:-1 tvg-logo="" group-title="Eleven Sport",ELEVEN SPORTS 6
+http://kuchini.site:8080/devtv/5af3eeb538/1515
+
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 1
+http://kuchini.site:8080/devtv/5af3eeb538/1937
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 2
+http://kuchini.site:8080/devtv/5af3eeb538/1938
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 3
+http://kuchini.site:8080/devtv/5af3eeb538/279991
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 4
+http://kuchini.site:8080/devtv/5af3eeb538/279752
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 5
+http://kuchini.site:8080/devtv/5af3eeb538/1940
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 7
+http://kuchini.site:8080/devtv/5af3eeb538/20883
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 8
+http://kuchini.site:8080/devtv/5af3eeb538/20884
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 9
+http://kuchini.site:8080/devtv/5af3eeb538/20885
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 10
+http://kuchini.site:8080/devtv/5af3eeb538/192025
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 12
+http://kuchini.site:8080/devtv/5af3eeb538/20887
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 13
+http://kuchini.site:8080/devtv/5af3eeb538/20890
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 14
+http://kuchini.site:8080/devtv/5af3eeb538/20889
+#EXTINF:-1 tvg-logo="" group-title="RMC Sport",RMC SPORT 15
+http://kuchini.site:8080/devtv/5af3eeb538/201115
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub 1
+http://kuchini.site:8080/devtv/5af3eeb538/3473
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub 2
+http://kuchini.site:8080/devtv/5af3eeb538/279841
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub 3
+http://kuchini.site:8080/devtv/5af3eeb538/279840
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub 4
+http://kuchini.site:8080/devtv/5af3eeb538/279839
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub 5
+http://kuchini.site:8080/devtv/5af3eeb538/26662
+#EXTINF:-1 tvg-logo="" group-title="Sport Klub",Sport Klub FIGHT
+http://kuchini.site:8080/devtv/5af3eeb538/67741
+
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Formula 1
+http://kuchini.site:8080/devtv/5af3eeb538/295260
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ MotoGP
+http://kuchini.site:8080/devtv/5af3eeb538/297423
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Premier League
+http://kuchini.site:8080/devtv/5af3eeb538/286794
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Series
+http://kuchini.site:8080/devtv/5af3eeb538/173
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport
+http://kuchini.site:8080/devtv/5af3eeb538/143
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 1
+http://kuchini.site:8080/devtv/5af3eeb538/291175
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 2
+http://kuchini.site:8080/devtv/5af3eeb538/298742
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 3
+http://kuchini.site:8080/devtv/5af3eeb538/291177
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 4
+http://kuchini.site:8080/devtv/5af3eeb538/297381
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 5
+http://kuchini.site:8080/devtv/5af3eeb538/291178
+#EXTINF:-1 tvg-logo="" group-title="Canal+",CANAL+ Sport 360
+http://kuchini.site:8080/devtv/5af3eeb538/297378
 
