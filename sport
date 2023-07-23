@@ -22,3 +22,52 @@ http://kuchini.site:8080/devtv/5af3eeb538/298471
 tp://kuchini.site:8080/devtv/5af3eeb538/692
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 1",Eurosport 2
 http://kuchini.site:8080/devtv/5af3eeb538/1555
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Cricket
+http://kuchini.site:8080/devtv/5af3eeb538/11637
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Football
+http://kuchini.site:8080/devtv/5af3eeb538/38575
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Golf
+http://kuchini.site:8080/devtv/5af3eeb538/11641
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Grandstand
+http://kuchini.site:8080/devtv/5af3eeb538/194353
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport LaLiga
+http://kuchini.site:8080/devtv/5af3eeb538/194358
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Motorsport
+http://kuchini.site:8080/devtv/5af3eeb538/11638
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Premier League
+http://kuchini.site:8080/devtv/5af3eeb538/11642
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport PSL
+http://kuchini.site:8080/devtv/5af3eeb538/11643
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Rugby
+http://kuchini.site:8080/devtv/5af3eeb538/11639
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",SuperSport Tennis
+http://kuchini.site:8080/devtv/5af3eeb538/15200
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Action
+http://kuchini.site:8080/devtv/5af3eeb538/268
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Arena
+http://kuchini.site:8080/devtv/5af3eeb538/267
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Cricket
+http://kuchini.site:8080/devtv/5af3eeb538/269
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports F1
+http://kuchini.site:8080/devtv/5af3eeb538/265
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Football
+http://kuchini.site:8080/devtv/5af3eeb538/266
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Golf
+http://kuchini.site:8080/devtv/5af3eeb538/264
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Main Event
+http://kuchini.site:8080/devtv/5af3eeb538/283053
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Mix
+http://kuchini.site:8080/devtv/5af3eeb538/261
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports News
+http://kuchini.site:8080/devtv/5af3eeb538/260
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Premier League
+http://kuchini.site:8080/devtv/5af3eeb538/263
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 3",Sky Sports Racing
+http://kuchini.site:8080/devtv/5af3eeb538/163132
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",
+
+
