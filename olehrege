@@ -37,7 +37,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/281638
 http://kuchini.site:8080/devtv/5af3eeb538/298512
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FYzCpwx/Cham2.png" group-title="Sport Backup",Champion TV 2
 http://kuchini.site:8080/devtv/5af3eeb538/298513
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup",Champion TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RcV6V3n/champ3.png" group-title="Sport Backup",Champion TV 3
 http://kuchini.site:8080/devtv/5af3eeb538/298514
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1zyCNGM/digi1.png" group-title="Sport Backup",DIGI Sport 1
 http://kuchini.site:8080/devtv/5af3eeb538/71457
@@ -74,11 +74,11 @@ http://kuchini.site:8080/devtv/5af3eeb538/40840
 http://kuchini.site:8080/devtv/5af3eeb538/3042
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports Racing
 http://kuchini.site:8080/devtv/5af3eeb538/2327
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Diema Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjSGfc/diema1.png" group-title="Sport Backup 2",Diema Sport
 http://kuchini.site:8080/devtv/5af3eeb538/9181
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Diema Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5w3NG4/diema2.png" group-title="Sport Backup 2",Diema Sport 2
 http://kuchini.site:8080/devtv/5af3eeb538/9180
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Diema Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c8N0x2B/diema3.png" group-title="Sport Backup 2",Diema Sport 3
 http://kuchini.site:8080/devtv/5af3eeb538/9179
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T25vzKt/astroarena.png" group-title="Astro Sport",Astro Arena
@@ -143,23 +143,23 @@ http://kuchini.site:8080/devtv/5af3eeb538/283294
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dD7wxgZ/sscricket.png" group-title="SuperSport",SuperSport Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/11637
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNT077Z/sfootball.png" group-title="SuperSport",SuperSport Football
 http://kuchini.site:8080/devtv/5af3eeb538/38575
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7XwF3hL/ssgolf.png" group-title="SuperSport",SuperSport Golf
 http://kuchini.site:8080/devtv/5af3eeb538/11641
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Grandstand
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TgVx7XD/sgrandstand.png" group-title="SuperSport",SuperSport Grandstand
 http://kuchini.site:8080/devtv/5af3eeb538/194353
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport LaLiga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7gQYPK/slaliga.png" group-title="SuperSport",SuperSport LaLiga
 http://kuchini.site:8080/devtv/5af3eeb538/194358
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Motorsport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YWtwpv/smotorsport.png" group-title="SuperSport",SuperSport Motorsport
 http://kuchini.site:8080/devtv/5af3eeb538/11638
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Premier League
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KDzT5m/sepl.png" group-title="SuperSport",SuperSport Premier League
 http://kuchini.site:8080/devtv/5af3eeb538/11642
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport PSL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wndg3z6/spsl.png" group-title="SuperSport",SuperSport PSL
 http://kuchini.site:8080/devtv/5af3eeb538/11643
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Rugby
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYp5L8x/srugby.png" group-title="SuperSport",SuperSport Rugby
 http://kuchini.site:8080/devtv/5af3eeb538/11639
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Tennis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgrfjmz/stennis.png" group-title="SuperSport",SuperSport Tennis
 http://kuchini.site:8080/devtv/5af3eeb538/15200
 
 #EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Action
