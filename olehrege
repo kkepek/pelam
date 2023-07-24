@@ -98,7 +98,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/157558
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w72bvbC/assp5.png" group-title="Astro Sport",Astro SuperSport 5
 http://kuchini.site:8080/devtv/5af3eeb538/287792
 
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mRWznjh/beinsport.png" group-title="beIN Grup",beIN Sports
 http://kuchini.site:8080/devtv/5af3eeb538/280725
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="beIN Grup",beIN Sports 1
 http://kuchini.site:8080/devtv/5af3eeb538/100
@@ -106,13 +106,13 @@ http://kuchini.site:8080/devtv/5af3eeb538/100
 http://kuchini.site:8080/devtv/5af3eeb538/101
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5c0mdx7/bein3.png" group-title="beIN Grup",beIN Sports 3
 http://kuchini.site:8080/devtv/5af3eeb538/102
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwRQDwg/bein4.png" group-title="beIN Grup",beIN Sports 4
 http://kuchini.site:8080/devtv/5af3eeb538/103
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJjF73m/bein5.png" group-title="beIN Grup",beIN Sports 5
 http://kuchini.site:8080/devtv/5af3eeb538/104
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hB3tGZF/bein6.png" group-title="beIN Grup",beIN Sports 6
 http://kuchini.site:8080/devtv/5af3eeb538/105
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pjb5X7G/bein7.png" group-title="beIN Grup",beIN Sports 7
 http://kuchini.site:8080/devtv/5af3eeb538/106
 #EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports English 1
 http://kuchini.site:8080/devtv/5af3eeb538/110
@@ -136,18 +136,18 @@ http://kuchini.site:8080/devtv/5af3eeb538/13816
 http://kuchini.site:8080/devtv/5af3eeb538/15962
 #EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports News
 http://kuchini.site:8080/devtv/5af3eeb538/1266
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gmL4BbC/beinsport1prem.png" group-title="beIN Grup",beIN Sports Premium 1
 http://kuchini.site:8080/devtv/5af3eeb538/109
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbXkFRs/beinsportprem2.png" group-title="beIN Grup",beIN Sports Premium 2
 http://kuchini.site:8080/devtv/5af3eeb538/280145
-#EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Premium 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwhBs97/beinsportprem3.png" group-title="beIN Grup",beIN Sports Premium 3
 http://kuchini.site:8080/devtv/5af3eeb538/280249
 #EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Xtra 1
 http://kuchini.site:8080/devtv/5af3eeb538/290037
 #EXTINF:-1 tvg-logo="" group-title="beIN Grup",beIN Sports Xtra 2
 http://kuchini.site:8080/devtv/5af3eeb538/283294
 
-#EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dD7wxgZ/sscricket.png" group-title="SuperSport",SuperSport Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/11637
 #EXTINF:-1 tvg-logo="" group-title="SuperSport",SuperSport Football
 http://kuchini.site:8080/devtv/5af3eeb538/38575
