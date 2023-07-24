@@ -64,20 +64,16 @@ http://kuchini.site:8080/devtv/5af3eeb538/747
 http://kuchini.site:8080/devtv/5af3eeb538/41918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QHRWPgG/espn3.png" group-title="Sport Backup 2",ESPN 3
 http://kuchini.site:8080/devtv/5af3eeb538/14816
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 501
-http://kuchini.site:8080/devtv/5af3eeb538/279034
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 502
-http://kuchini.site:8080/devtv/5af3eeb538/81784
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 503
-http://kuchini.site:8080/devtv/5af3eeb538/280192
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 504
-http://kuchini.site:8080/devtv/5af3eeb538/280193
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 505
-http://kuchini.site:8080/devtv/5af3eeb538/144772
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 506
-http://kuchini.site:8080/devtv/5af3eeb538/279033
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 507
-http://kuchini.site:8080/devtv/5af3eeb538/280194
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 
+http://kuchini.site:8080/devtv/5af3eeb538/40839
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 1
+http://kuchini.site:8080/devtv/5af3eeb538/54432
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 2
+http://kuchini.site:8080/devtv/5af3eeb538/40840
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 3
+http://kuchini.site:8080/devtv/5af3eeb538/3042
+#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports Racing
+http://kuchini.site:8080/devtv/5af3eeb538/2327
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Diema Sport
 http://kuchini.site:8080/devtv/5af3eeb538/9181
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Diema Sport 2
