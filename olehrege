@@ -162,7 +162,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/11639
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tgrfjmz/stennis.png" group-title="SuperSport",SuperSport Tennis
 http://kuchini.site:8080/devtv/5af3eeb538/15200
 
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Action
+#EXTINF:-1 tvg-logo="https://ibb.co/mXLTTKs" group-title="Sky Sport",Sky Sports Action
 http://kuchini.site:8080/devtv/5af3eeb538/268
 #EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Arena
 http://kuchini.site:8080/devtv/5af3eeb538/267
@@ -195,13 +195,11 @@ http://kuchini.site:8080/devtv/5af3eeb538/297552
 #EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sport Top Event
 http://kuchini.site:8080/devtv/5af3eeb538/297551
 
-#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Extra
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djSyTYQ/polsatextra.png" group-title="Polsat Sport",Polsat Sport Extra
 http://kuchini.site:8080/devtv/5af3eeb538/353
-#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport FIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgZ4bz0/polsatfight.png" group-title="Polsat Sport",Polsat Sport FIGHT
 http://kuchini.site:8080/devtv/5af3eeb538/26592
-#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport News
-http://kuchini.site:8080/devtv/5af3eeb538/355
-#EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBSmxRg/polsat1.png" group-title="Polsat Sport",Polsat Sport Premium 1
 http://kuchini.site:8080/devtv/5af3eeb538/23199
 #EXTINF:-1 tvg-logo="" group-title="Polsat Sport",Polsat Sport Premium 2
 http://kuchini.site:8080/devtv/5af3eeb538/29607
