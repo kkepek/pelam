@@ -66,9 +66,9 @@ http://kuchini.site:8080/devtv/5af3eeb538/41918
 http://kuchini.site:8080/devtv/5af3eeb538/14816
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 
 http://kuchini.site:8080/devtv/5af3eeb538/40839
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3B6xtkm/foxpsort1.png" group-title="Sport Backup 2",Fox Sports 1
 http://kuchini.site:8080/devtv/5af3eeb538/54432
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9R1wYX/foxpsport2.png" group-title="Sport Backup 2",Fox Sports 2
 http://kuchini.site:8080/devtv/5af3eeb538/40840
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",Fox Sports 3
 http://kuchini.site:8080/devtv/5af3eeb538/3042
