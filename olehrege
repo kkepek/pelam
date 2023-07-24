@@ -292,7 +292,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/22058
 http://kuchini.site:8080/devtv/5af3eeb538/43778
 #EXTINF:-1 tvg-logo="" group-title="Arab Sport",Dubai Sports 3
 http://kuchini.site:8080/devtv/5af3eeb538/21998
-#EXTINF:-1 tvg-logo="" group-title="Arab Sport",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZfFh6G0/ads1.png" group-title="Arab Sport",Abu Dhabi Sports 1
 http://kuchini.site:8080/devtv/5af3eeb538/1296
 #EXTINF:-1 tvg-logo="" group-title="Arab Sport",Abu Dhabi Sports 2
 http://kuchini.site:8080/devtv/5af3eeb538/1295
