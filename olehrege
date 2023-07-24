@@ -50,11 +50,11 @@ http://kuchini.site:8080/devtv/5af3eeb538/4219
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ssVqpYH/ziggogolf.png" group-title="Sport Backup 2",ZIGGO Golf
 http://kuchini.site:8080/devtv/5af3eeb538/4514
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",ZIGGO Racing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TT96yWX/ziggoracing.png" group-title="Sport Backup 2",ZIGGO Racing
 http://kuchini.site:8080/devtv/5af3eeb538/4515
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",ZIGGO Select
 http://kuchini.site:8080/devtv/5af3eeb538/851
-#EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",ZIGGO Tennis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJZhssw/ziggotenis.png" group-title="Sport Backup 2",ZIGGO Tennis
 http://kuchini.site:8080/devtv/5af3eeb538/2500
 #EXTINF:-1 tvg-logo="" group-title="Sport Backup 2",ZIGGO Voetbal
 http://kuchini.site:8080/devtv/5af3eeb538/2502
