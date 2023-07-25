@@ -168,23 +168,23 @@ http://kuchini.site:8080/devtv/5af3eeb538/268
 http://kuchini.site:8080/devtv/5af3eeb538/267
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFWVGfS/skycrciket.png" group-title="Sky Sport",Sky Sports Cricket
 http://kuchini.site:8080/devtv/5af3eeb538/269
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1hr7Ck/skyf1.png" group-title="Sky Sport",Sky Sports F1
 http://kuchini.site:8080/devtv/5af3eeb538/265
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WPNBBzf/skyfootbal.png" group-title="Sky Sport",Sky Sports Football
 http://kuchini.site:8080/devtv/5af3eeb538/266
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGtG67f/skygolf.png" group-title="Sky Sport",Sky Sports Golf
 http://kuchini.site:8080/devtv/5af3eeb538/264
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Main Event
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KL8cNCn/skymainevent.png" group-title="Sky Sport",Sky Sports Main Event
 http://kuchini.site:8080/devtv/5af3eeb538/283053
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Mix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MBCpYpY/skymix.png" group-title="Sky Sport",Sky Sports Mix
 http://kuchini.site:8080/devtv/5af3eeb538/261
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df9Tk5R/skysport2.png" group-title="Sky Sport",Sky Sports Premier League
 http://kuchini.site:8080/devtv/5af3eeb538/263
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sports Racing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82tHJZ0/skyracing.png" group-title="Sky Sport",Sky Sports Racing
 http://kuchini.site:8080/devtv/5af3eeb538/163132
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sport Tennis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8V8WTW/skytennis.png" group-title="Sky Sport",Sky Sport Tennis
 http://kuchini.site:8080/devtv/5af3eeb538/297552
-#EXTINF:-1 tvg-logo="" group-title="Sky Sport",Sky Sport Top Event
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zfN2Yk2/topevent.png" group-title="Sky Sport",Sky Sport Top Event
 http://kuchini.site:8080/devtv/5af3eeb538/297551
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djSyTYQ/polsatextra.png" group-title="Polsat Sport",Polsat Sport Extra
