@@ -84,20 +84,15 @@ http://kuchini.site:8080/devtv/5af3eeb538/9179
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T25vzKt/astroarena.png" group-title="Astro Sport",Astro Arena
 http://kuchini.site:8080/devtv/5af3eeb538/157485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZTbjrgV/assp1.png" group-title="Astro Sport",Astro SuperSport
-#http://kuchini.site:8080/devtv/5af3eeb538/146068
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099133
+http://kuchini.site:8080/devtv/5af3eeb538/146068
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsSBchg/assp2.png" group-title="Astro Sport",Astro SuperSport 2
-#http://kuchini.site:8080/devtv/5af3eeb538/157556
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099134
+http://kuchini.site:8080/devtv/5af3eeb538/157556
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D1n2xkj/assp3.png" group-title="Astro Sport",Astro SuperSport 3
-#http://kuchini.site:8080/devtv/5af3eeb538/157557
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099135
+http://kuchini.site:8080/devtv/5af3eeb538/157557
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qBmQ7jP/assp4.png" group-title="Astro Sport",Astro SuperSport 4
-#http://kuchini.site:8080/devtv/5af3eeb538/157558
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099136
+http://kuchini.site:8080/devtv/5af3eeb538/157558
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w72bvbC/assp5.png" group-title="Astro Sport",Astro SuperSport 5
-#http://kuchini.site:8080/devtv/5af3eeb538/287792
-https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099137
+http://kuchini.site:8080/devtv/5af3eeb538/287792
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mRWznjh/beinsport.png" group-title="Bein Group",beIN Sports
 http://kuchini.site:8080/devtv/5af3eeb538/280725
