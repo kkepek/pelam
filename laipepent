@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 1
-https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 2
-https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 3
-https://179720687.global.cdnfastest.com/live/sd-965mkyh2vy1er1g/playlist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 4
 https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 5
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="🔴 Live Soccer (Live Only)",Live 6
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5V5tHK/ligabri.png" group-title="🔴 Live Soccer (Live Only)",Liga 1
 https://etslive-2-vidio-com.akamaized.net/exp=1690559506~acl=/hls-p/ingest_205_*/*~hmac=01d595f7fa700424755128dc1af4f2090fd95c61dc24274096dcd64ed4c3f99a/hls-p/ingest_205_720p/index.m3u8
