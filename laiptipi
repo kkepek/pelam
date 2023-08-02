@@ -273,7 +273,11 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59741
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",AR - Bein Sport English 3
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59742
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="VIP Sport 2",IND - TEN SPORT 1
+#EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",IND - TEN SPORT 1
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/63594
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="VIP Sport 2",IND - TEN SPORT 2 
+#EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",IND - TEN SPORT 2 
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/63595
+#EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",USA - ESPN
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58499
+#EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",USA - ESPN 2 HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58500
