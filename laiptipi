@@ -267,3 +267,8 @@ http://kuchini.site:8080/devtv/5af3eeb538/158360
 http://kuchini.site:8080/devtv/5af3eeb538/171953
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Alhijrah
 http://kuchini.site:8080/devtv/5af3eeb538/157491
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59741
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59742
