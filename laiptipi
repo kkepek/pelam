@@ -273,6 +273,25 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59741
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",AR - Bein Sport English 3
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/59742
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58753
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58754
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58755
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58756
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58757
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58758
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58759
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58760
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvrzphg/beinsport1.png" group-title="Bein Group",FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58761
+
 #EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",USA - TSN 5
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/61558
 #EXTINF:-1 tvg-logo="" group-title="VIP Sport 2",USA - TSN 1
