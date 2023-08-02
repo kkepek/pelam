@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="🔴 Sport [Live Only]",LIVE STREAM AKTIF
+https://a41.azplay.me/hls/streama207280/index.m3u8?cst=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="🔴 Sport [Live Only]",±15 MENIT SEBELUM PERTANDINGAN
+https://a41.azplay.me/hls/streama207280/index.m3u8?cst=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="🔴 Sport [Live Only]",AC Milan vs Barcelona [10.00]
 https://a41.azplay.me/hls/streama207280/index.m3u8?cst=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="🔴 Sport [Live Only]",Liverpool vs Bayern Munchen [18.30]
