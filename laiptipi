@@ -225,3 +225,32 @@ http://rr.dens.tv/h/h09/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/crHTbzQ/wsport.png" group-title="Sports",W-Sport
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMfym8W/awani.png" group-title="Malaysia",Astro Awani
+http://kuchini.site:8080/devtv/5af3eeb538/157478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmj7bQh/astrocricket.png" group-title="Malaysia",Astro Cricket
+http://kuchini.site:8080/devtv/5af3eeb538/157565
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
+http://kuchini.site:8080/devtv/5af3eeb538/157489
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
+http://kuchini.site:8080/devtv/5af3eeb538/157467
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
+http://kuchini.site:8080/devtv/5af3eeb538/158347
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
+http://kuchini.site:8080/devtv/5af3eeb538/201163
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Xiao Tai Yang
+http://kuchini.site:8080/devtv/5af3eeb538/201164
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",NTV 7
+http://kuchini.site:8080/devtv/5af3eeb538/174695
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTB Sukmaindera
+http://kuchini.site:8080/devtv/5af3eeb538/299546
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTM TV 1
+http://kuchini.site:8080/devtv/5af3eeb538/158357
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",RTM TV 2
+http://kuchini.site:8080/devtv/5af3eeb538/158355
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qkYY5Y/tv3.png" group-title="Malaysia",TV 3
+http://kuchini.site:8080/devtv/5af3eeb538/158360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xm5G1Ww/tv9.png" group-title="Malaysia",TV 9
+http://kuchini.site:8080/devtv/5af3eeb538/171953
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Alhijrah
+http://kuchini.site:8080/devtv/5af3eeb538/157491
