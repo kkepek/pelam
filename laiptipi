@@ -85,8 +85,6 @@ https://happykids-vizio.amagi.tv/playlist.m3u8
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7xz5n7n/circle-190x190.png" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="Kids",Garfield 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=5f4f&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g7GT02c/Picsart-22-08-30-15-30-40-136.png" group-title="Kids",CONtv Anime 
 https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/90/GBBA33000286F_20220323T071116.png" group-title="Kids",Teletubbies 
