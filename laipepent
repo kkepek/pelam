@@ -2,7 +2,14 @@
 #EXTINF:-1 tvg-logo="" group-title="Live Event",Liga Fustal Profesional
 #https://abhwlive.rctiplus.id/watermark/lfp3_20230806_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",No Event Today
-https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
+#https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",Al Shorta vs Al-Nasr
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",Al Shorta vs Al-Nasr
+https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",Al Shorta vs Al-Nasr
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+
 
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m
 #https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
