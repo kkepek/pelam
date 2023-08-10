@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Live Event",Liga Fustal Profesional
 #https://abhwlive.rctiplus.id/watermark/lfp3_20230806_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",No Event Today
-#https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",LIVE ONLY
+https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp
 
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m
 #https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
