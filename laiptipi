@@ -184,24 +184,3 @@ http://kuchini.site:8080/devtv/5af3eeb538/158360
 http://kuchini.site:8080/devtv/5af3eeb538/171953
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Alhijrah
 http://kuchini.site:8080/devtv/5af3eeb538/157491
-
-#EXTINF: -1 tvg-id="astrosupersport1.my" tvg-name="ASTRO SUPERSPORT 1" tvg-logo="https://logo.iptveditor.com/astrosupersport.png" group-title="VIP Sports 1", ASTRO SUPERSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://kuchini.site:8080/devtv/5af3eeb538/157555
-#EXTINF: -1 tvg-id="astrosupersport2.my" tvg-name="ASTRO SUPERSPORT 2" tvg-logo="https://logo.iptveditor.com/astrosupersport2.png" group-title="VIP Sports 1", ASTRO SUPERSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://kuchini.site:8080/devtv/5af3eeb538/157556
-#EXTINF: -1 tvg-id="astrosupersport3.my" tvg-name="ASTRO SUPERSPORT 3" tvg-logo="https://logo.iptveditor.com/astrosupersport3.png" group-title="VIP Sports 1", ASTRO SUPERSPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://kuchini.site:8080/devtv/5af3eeb538/157557
-#EXTINF: -1 tvg-id="astrosupersport4.my" tvg-name="ASTRO SUPERSPORT 4" tvg-logo="https://logo.iptveditor.com/astrosupersport4.png" group-title="VIP Sports 1", ASTRO SUPERSPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://kuchini.site:8080/devtv/5af3eeb538/157558
-#EXTINF: -1 tvg-id="astrosupersport5.my" tvg-name="ASTRO SUPERSPORT 5" tvg-logo="https://logo.iptveditor.com/astrosupersport5.png" group-title="VIP Sports 1", ASTRO SUPERSPORT 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-http://kuchini.site:8080/devtv/5af3eeb538/287792
