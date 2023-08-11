@@ -1,15 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",LIVE ONLY
 https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZQ2JHx/womanwc.png" group-title="Live Event",[08.00] Spain vs Netherland
-https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZQ2JHx/womanwc.png" group-title="Live Event",[14.30] Japan (w) vs Sweden
 https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZQ2JHx/womanwc.png" group-title="Live Event",[14.30] Japan (w) vs Sweden
 https://obevcimanyd179314182.thapcam.link/live/chaSD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZQ2JHx/womanwc.png" group-title="Live Event",[14.30] Japan (w) vs Sweden
 https://a42.azplay.me/hls/streama213039/index.m3u8?cst=ff739c0a839897d02441f538a331ca13
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5V5tHK/ligabri.png" group-title="Live Event",BRI Liga 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5V5tHK/ligabri.png" group-title="Live Event",PSM Makassar vs Bali United
 https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTS2snD/futsal.png" group-title="Live Event",Liga Futsal Profesional
 https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
