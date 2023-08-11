@@ -235,9 +235,6 @@ https://pixeldrain.com/api/file/DQjdaNod
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Transformers07.jpg/220px-Transformers07.jpg" group-title="Sci-Fi",[2007] Transformer
 https://pixeldrain.com/api/file/RFZiTPAm
 
-#EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/07/film-dream-2023-lk21-d21.jpg" group-title="Sport",[2023] Dream
-https://pixeldrain.com/api/file/mjCkkGTX
-
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/05/film-sisu-2023-lk21-d21.jpg" group-title="War",[2023] Sisu
 https://pixeldrain.com/api/file/4ycmLuz8
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/05/film-the-covenant-2023-lk21-d21.jpg" group-title="War",[2023] The Covenant
@@ -410,6 +407,8 @@ https://pixeldrain.com/api/file/R7JCHnTQ
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/08/film-zom-100-bucket-list-of-the-dead-2023-lk21-d21.jpg" group-title="Japan",[2023] Zom 100: Bucket List of the Dead
 https://pixeldrain.com/api/file/cKcZGG7H
 
+#EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/07/film-dream-2023-lk21-d21.jpg" group-title="Koreà",[2023] Dream
+https://pixeldrain.com/api/file/mjCkkGTX
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/04/film-switch-2023-lk21-d21.jpg" group-title="Koreà",[2023] Switch
 https://pixeldrain.com/api/file/pWVJK48D
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/07/film-the-childe-2023-lk21-d21.jpg" group-title="Koreà",[2023] The Childe
