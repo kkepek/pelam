@@ -2,14 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ytsnwY/info2.png" group-title="Live Event",LIVE ONLY
 https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 1
-https://179720687.global.cdnfastest.com/live/sd-y39mp1hzv46kmoj/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 2
-https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 4
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 5
 https://188viplink.com:30443/eleven_sport/beinsports4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 6
