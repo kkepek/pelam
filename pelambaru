@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-heart-of-stone-2023-lk21-d21.jpg" group-title="Action",[2023] Heart Of Stone
 https://pixeldrain.com/api/file/9Q5Gy5MC
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/08/film-the-island-2023-lk21-d21.jpg" group-title="Action",[2023] The Island
+https://pixeldrain.com/api/file/ZDsjW49i
 #EXTINF:-1 tvg-logo="https://tv2.lk21official.pro/wp-content/uploads/2023/08/film-flashover-2023-lk21-d21.jpg" group-title="Action",[2023] Flashover
 https://pixeldrain.com/api/file/Xxpcqsmc
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-the-collective-2023-lk21-d21.jpg" group-title="Action",[2023] The Collective
@@ -45,6 +47,8 @@ https://pixeldrain.com/api/file/FtEkved3
 https://pixeldrain.com/api/file/VCh38t4Y
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg" group-title="Action",[2014] The Expendables 3
 https://pixeldrain.com/api/file/mDexce8u
+#EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2016/01/film-into-the-storm-2014.jpg" group-title="Action",[2014] Into The Storm
+https://pixeldrain.com/api/file/Q7GvPCeD
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2016/01/film-47-ronin-2013.jpg" group-title="Action",[2013] 47 Ronin
 https://pixeldrain.com/api/file/9Ry4uWUa
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg" group-title="Action",[2012] The Expendables 2
@@ -174,6 +178,8 @@ https://pixeldrain.com/api/file/T4z9KYGp
 #EXTINF:-1 tvg-logo="https://onionplay-network.stream/2022/02/ppd84D2i9W8jXmsyInGyihiSyqz-200x300.jpg" group-title="Crime",[1957] 12 Angry Man
 https://pixeldrain.com/api/file/8xHG2aXK
 
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-tommy-guns-2023-lk21-d21.jpg" group-title="Drama/Family",[2023] Tommy Guns
+https://pixeldrain.com/api/file/s7WQo5zg
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/08/film-let-me-have-my-son-2023-lk21-d21.jpg" group-title="Drama/Family",[2023] Let Me Have My Son
 https://pixeldrain.com/api/file/m3uLrBCj
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg" group-title="Drama/Family",[2023] Creed III
@@ -245,6 +251,8 @@ https://pixeldrain.com/api/file/hsqGu4Dt
 https://pixeldrain.com/api/file/XAUC96At
 #EXTINF:-1 tvg-logo="https://asaljeplak.com/wp-content/uploads/2020/03/review-film-parasite.jpg" group-title="Horror/Thriller/Mistery",[2019] Parasite
 https://pixeldrain.com/api/file/JPVFAJnZ
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2016/06/film-the-tall-man-2012.jpg" group-title="Horror/Thriller/Mistery",[2012] The Tall Man
+https://pixeldrain.com/api/file/gZ8tEVdZ
 #EXTINF:-1 tvg-logo="https://tv2.lk21official.pro/wp-content/uploads/2016/05/film-insidious-2010.jpg" group-title="Horror/Thriller/Mistery",[2010] Insidious
 https://pixeldrain.com/api/file/i4hFF9RF
 #EXTINF:-1 tvg-logo="https://tv2.lk21official.pro/wp-content/uploads/2015/12/film-zodiac-2007.jpg" group-title="Horror/Thriller/Mistery",[2007] Zodiac
@@ -295,6 +303,8 @@ https://pixeldrain.com/api/file/du5Vtgue
 https://pixeldrain.com/api/file/HNDq2ng7
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/08/film-sanctified-2022-lk21-d21.jpg" group-title="Western",[2022] Sanctified
 https://pixeldrain.com/api/file/cxLq3bfB
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2021/10/film-old-henry-2021-lk21.jpg" group-title="Western",[2022] Old Henry
+https://pixeldrain.com/api/file/GQFFMsu9
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2016/10/film-the-magnificent-seven-2016.jpg" group-title="Western",[2016] The Magnificent Seven
 https://pixeldrain.com/api/file/yw4H82hM
 
@@ -369,6 +379,8 @@ https://pixeldrain.com/api/file/NBLvCtse
 https://pixeldrain.com/api/file/V4AY1WeU
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2021/05/film-dynasty-warriors-2021-lk21.jpg" group-title="China",[2021] Dynasty Warriors
 https://pixeldrain.com/api/file/GLVYCnk2
+#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2017/04/film-detective-chinatown-2015.jpg" group-title="China",[2015] Detective Chinatown
+https://pixeldrain.com/api/file/rCpXG69W
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-erumbu-2023-lk21-d21.jpg" group-title="India",[2023] Erumbu
 https://pixeldrain.com/api/file/1LGBJET1
