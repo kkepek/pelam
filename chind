@@ -70,3 +70,67 @@ http://kuchini.site:8080/devtv/5af3eeb538/158360
 http://kuchini.site:8080/devtv/5af3eeb538/171953
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Alhijrah
 http://kuchini.site:8080/devtv/5af3eeb538/157491
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Spain vs Sweden
+#https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Spain vs Sweden
+#https://179720687.global.cdnfastest.com/live/hd-en-dn1m1ghp9919moe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Spain vs Sweden
+#https://179720687.global.cdnfastest.com/live/sd-dn1m1ghp9919moe/chunklist_w115837497.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 1
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 2
+https://188viplink.com:30443/eleven_sport/beinsports4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 3
+https://188viplink.com:30443/eleven_sport/beinsports5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 4
+https://188viplink.com:30443/eleven_sport/laliga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 5
+https://188viplink.com:30443/eleven_sport/beinsports2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 6
+https://188viplink.com:30443/eleven_sport/btsport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 7
+https://188viplink.com:30443/eleven_sport/bundesliga1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 8
+https://188viplink.com:30443/eleven_sport/sonysports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 9
+https://188viplink.com:30443/eleven_sport/beinsports1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 10
+https://b7i4j3n3.stackpathcdn.com/said2000/1691838787/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 11
+http://15.235.83.170:8080/9C00D30500BC/00D30500BC/144035
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 12
+https://188viplink.com:30443/eleven_sport/eleven1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 13
+https://188viplink.com:30443/eleven_sport/skysports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 14
+https://188viplink.com:30443/eleven_sport/liga_arab1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 15
+https://188viplink.com:30443/eleven_sport/liga_arab2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 16
+https://188viplink.com:30443/eleven_sport/liga_arab3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 17
+https://188viplink.com:30443/eleven_sport/liga_arab4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 18
+https://188viplink.com:30443/eleven_sport/belanda1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 19
+https://188viplink.com:30443/eleven_sport/sport1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 20
+https://188viplink.com:30443/eleven_sport/sport2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 21
+https://188viplink.com:30443/eleven_sport/sport3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 22
+http://15.235.83.170:8080/9C00D30500BC/00D30500BC/144039
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",Live 23
+http://15.235.83.170:8080/9C00D30500BC/00D30500BC/144048
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",[02.00] Burnley vs Manchester City
+#https://188viplink.com:30443/eleven_sport/skysports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTS2snD/futsal.png" group-title="Live Event",Liga Futsal Profesional
+#https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTS2snD/futsal.png" group-title="Live Event",Liga Futsal Profesional
+#https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
+#https://abhwlive.rctiplus.id/watermark/lfp3_20230806_720p/index.m3u8
+#https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m
+#https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
