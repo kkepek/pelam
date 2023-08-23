@@ -980,7 +980,8 @@ http://103.209.173.14:9966/daddy/stream/670.m3u8
 http://103.209.173.14:9966/daddy/stream/729.m3u8
 #EXTINF:-1 group-title="Daddy",Sky Sport 24 Italy 
 http://103.209.173.14:9966/daddy/stream/869.m3u8
-#EXTINF:-1 group-title="Daddy",Sky Sport Calcio Italy http://103.209.173.14:9966/daddy/stream/870.m3u8
+#EXTINF:-1 group-title="Daddy",Sky Sport Calcio Italy 
+http://103.209.173.14:9966/daddy/stream/870.m3u8
 #EXTINF:-1 group-title="Daddy",Sky Calcio 1 (251) 
 Italy http://103.209.173.14:9966/daddy/stream/871.m3u8
 #EXTINF:-1 group-title="Daddy",Sky Calcio 2 (252) 
