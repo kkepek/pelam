@@ -392,3 +392,26 @@ http://103.209.173.14:9966/daddy/stream/491.m3u8
 http://103.209.173.14:9966/daddy/stream/492.m3u8
 #EXTINF:-1 group-title="Bein Sport",beIN SPORTS Australia 3 
 http://103.209.173.14:9966/daddy/stream/493.m3u8
+
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 1 Premium
+http://103.209.173.14:9966/daddy/stream/134.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 2 Premium
+http://103.209.173.14:9966/daddy/stream/135.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 3 Premium
+http://103.209.173.14:9966/daddy/stream/139.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 1 Serbia
+http://103.209.173.14:9966/daddy/stream/429.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 2 Serbia
+http://103.209.173.14:9966/daddy/stream/430.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 3 Serbia
+http://103.209.173.14:9966/daddy/stream/431.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 4 Serbia
+http://103.209.173.14:9966/daddy/stream/581.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 1 Croatia
+http://103.209.173.14:9966/daddy/stream/432.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 2 Croatia
+http://103.209.173.14:9966/daddy/stream/433.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 3 Croatia
+http://103.209.173.14:9966/daddy/stream/434.m3u8 
+#EXTINF:-1 group-title="Arena Sport",Arena Sport 4 Croatia
+http://103.209.173.14:9966/daddy/stream/580.m3u8 
