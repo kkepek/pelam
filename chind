@@ -134,3 +134,40 @@ http://15.235.83.170:8080/9C00D30500BC/00D30500BC/144048
 #https://abhwlive.rctiplus.id/watermark/lfp3_20230806_720p/index.m3u8
 #https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m
 #https://raw.githubusercontent.com/kkepek/YouTube_to_m3u/main/assets/offchanel.mp4
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE
+https://us.catchystream.xyz/playlist/stream_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Event",LIVE 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/index.m3u8
