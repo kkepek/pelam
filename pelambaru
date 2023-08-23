@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-heart-of-stone-2023-lk21-d21.jpg" group-title="Action",[2023] Heart Of Stone
 https://pixeldrain.com/api/file/9Q5Gy5MC
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-apaches-2023-lk21-d21.jpg" group-title="Action",[2023] Apaches
+https://pixeldrain.com/api/file/4bd59Bjc
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/08/film-the-island-2023-lk21-d21.jpg" group-title="Action",[2023] The Island
 https://pixeldrain.com/api/file/ZDsjW49i
 #EXTINF:-1 tvg-logo="https://tv2.lk21official.pro/wp-content/uploads/2023/08/film-flashover-2023-lk21-d21.jpg" group-title="Action",[2023] Flashover
@@ -107,6 +109,8 @@ https://pixeldrain.com/api/file/MdX5naKi
 https://pixeldrain.com/api/file/uWMSj7ep
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/06/film-spongebob-squarepants-presents-the-tidal-zone-2023-lk21-d21.jpg" group-title="Animation",[2023] SpongeBob Square Pants Presents the Tidal Zone
 https://pixeldrain.com/api/file/tvjPaWxD
+#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2022/01/film-hotel-transylvania-transformania-2022-lk21-d21.jpg" group-title="Animation",[2022] Hotel Transylvania: Transformania
+https://pixeldrain.com/api/file/6MfV7Kqc
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2022/05/film-the-bad-guys-2022-lk21-d21.jpg" group-title="Animation",[2022] The Bad Guys
 https://pixeldrain.com/api/file/s22xyVWR
 
@@ -528,6 +532,8 @@ https://pixeldrain.com/api/file/ut4g4GdA
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2019/10/film-kingdom-kingudamu-2019-lk21.jpg" group-title="Japan",[2019] Kingdom
 https://pixeldrain.com/api/file/6unHMYX8
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-past-lives-2023-lk21-d21.jpg" group-title="Koreà",[2023] Past Lives
+https://pixeldrain.com/api/file/p3RBuY9F
 #EXTINF:-1 tvg-logo="https://tv1.lk21official.pro/wp-content/uploads/2023/07/film-dream-2023-lk21-d21.jpg" group-title="Koreà",[2023] Dream
 https://pixeldrain.com/api/file/mjCkkGTX
 #EXTINF:-1 tvg-logo="https://melongmovie.site/wp-content/uploads/2023/07/1688886501-4729-w5ZzelrldWr7CmOTSiwagoe5Vl9.jpg" group-title="Koreà",[2023] The Roundup: No Way Out
@@ -569,7 +575,7 @@ https://pixeldrain.com/api/file/5FGf3KKz
 https://pixeldrain.com/api/file/FrJ8DxxJ
 
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/08/film-sugapa-2023-lk21-d21.jpg" group-title="Philipina",[2023] Sugapa
-https://pixeldrain.com/u/QyHDrhEb
+https://pixeldrain.com/api/file/QyHDrhEb
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-kahalili-2023-lk21-d21.jpg" group-title="Philipina",[2023] Kahalili
 https://pixeldrain.com/api/file/PER8AuHd
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-kamadora-2023-lk21-d21.jpg" group-title="Philipina",[2023] Kamadora
