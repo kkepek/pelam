@@ -415,3 +415,19 @@ http://103.209.173.14:9966/daddy/stream/433.m3u8
 http://103.209.173.14:9966/daddy/stream/434.m3u8 
 #EXTINF:-1 group-title="Arena Sport",Arena Sport 4 Croatia
 http://103.209.173.14:9966/daddy/stream/580.m3u8 
+
+#EXTINF:-1 group-title="SSC Sport",SSC Sport 1 
+http://103.209.173.14:9966/daddy/stream/614.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport 2 
+http://103.209.173.14:9966/daddy/stream/615.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport 3 
+http://103.209.173.14:9966/daddy/stream/616.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport 4 
+http://103.209.173.14:9966/daddy/stream/617.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport 5 
+http://103.209.173.14:9966/daddy/stream/618.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport Extra 1 
+http://103.209.173.14:9966/daddy/stream/619.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport Extra 2 
+http://103.209.173.14:9966/daddy/stream/620.m3u8
+#EXTINF:-1 group-title="SSC Sport",SSC Sport Extra 3 
