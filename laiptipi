@@ -221,7 +221,8 @@ https://us.catchystream.xyz/playlist/stream_10.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/ten1hd.jpg",Ten1 Hd http://103.209.173.14:9966/private-server2/stream/ten1-hd.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/ten2hd.jpg",Sony Ten2 http://103.209.173.14:9966/private-server2/stream/sony-ten2.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/ten3hd.jpg",Ten3 http://103.209.173.14:9966/private-server2/stream/ten3.m3u8
-#EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect1.jpg",Star Sport Select1Hd http://103.209.173.14:9966/private-server2/stream/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect1.jpg",Star Sport Select1Hd
+http://103.209.173.14:9966/private-server2/stream/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect2.jpg",Select2 http://103.209.173.14:9966/private-server2/stream/select2.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports2.jpg",Star Sports 2 http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-2.m3u8
 #EXTINF:-1 group-title="Sports - SERVER2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports1.jpg",Star Sports 1 http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-1.m3u8
