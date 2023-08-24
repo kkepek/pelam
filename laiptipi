@@ -156,8 +156,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 1",Malaysia VS Vietnam
 https://179720687.global.cdnfastest.com/live/sd-y39mp1hz34g3moj/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 1",LIVE 
@@ -228,74 +226,3 @@ https://realbitsport.com/n-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://realbitsport.com/n-5.m3u8
 
-#EXTINF:-1 group-title="Sports 1",Astro SuperSport 1
-http://103.209.173.14:9966/daddy/stream/123.m3u8
-#EXTINF:-1 group-title="Sports 1",Astro SuperSport 2 
-http://103.209.173.14:9966/daddy/stream/124.m3u8
-#EXTINF:-1 group-title="Sports 1",Astro SuperSport 3
-http://103.209.173.14:9966/daddy/stream/125.m3u8 
-#EXTINF:-1 group-title="Sports 1",Astro SuperSport 4
-http://103.209.173.14:9966/daddy/stream/126.m3u8 
-#EXTINF:-1 group-title="Sports 1",Astro SuperSport 5
-http://103.209.173.14:9966/daddy/stream/43.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein1.jpg",Bein 1
-http://103.209.173.14:9966/private-server1/stream/bein-1.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein2.jpg",Bein 2
-http://103.209.173.14:9966/private-server1/stream/bein-2.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein3.jpg",Bein 3
-http://103.209.173.14:9966/private-server1/stream/bein-3.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein4.jpg",Bein 4
-http://103.209.173.14:9966/private-server1/stream/bein-4.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/beinpremium2.jpg",Bein Premium 2
-http://103.209.173.14:9966/private-server1/stream/bein-premium-2.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport 1 
-http://103.209.173.14:9966/daddy/stream/614.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport 2 
-http://103.209.173.14:9966/daddy/stream/615.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport 3 
-http://103.209.173.14:9966/daddy/stream/616.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport 4 
-http://103.209.173.14:9966/daddy/stream/617.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport 5 
-http://103.209.173.14:9966/daddy/stream/618.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport Extra 1 
-http://103.209.173.14:9966/daddy/stream/619.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport Extra 2 
-http://103.209.173.14:9966/daddy/stream/620.m3u8
-#EXTINF:-1 group-title="Sports 1",SSC Sport Extra 3
-http://103.209.173.14:9966/daddy/stream/621.m3u8
-#EXTINF:-1 group-title="Sports 1",Arena Sport 1
-http://103.209.173.14:9966/daddy/stream/429.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="",Arena Sport 1
-http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-1-HD.m3u8
-#EXTINF:-1 group-title="Sports 1",Arena Sport 2
-http://103.209.173.14:9966/daddy/stream/433.m3u8 
-#EXTINF:-1 group-title="Sports 1",Arena Sport 3
-http://103.209.173.14:9966/daddy/stream/434.m3u8 
-#EXTINF:-1 group-title="Sports 1",Arena Sport 4
-http://103.209.173.14:9966/daddy/stream/580.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="",Arena Sport 4
-http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-4-HD.m3u8
-
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports1.jpg",Star Sports 1
-http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-1.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports2.jpg",Star Sports 2
-http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-2.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports3.jpg",Star Sports 3
-http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-3.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/adsports1.jpg",Adsports1
-http://103.209.173.14:9966/private-server2/stream/Adsports1.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/adsports2.jpg",Adsports2
-http://103.209.173.14:9966/private-server2/stream/Adsports2.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten1hd.jpg",Sony Ten 1
-http://103.209.173.14:9966/private-server1/stream/ten1-hd.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten2hd.jpg",Sony Ten 2
-http://103.209.173.14:9966/private-server1/stream/sony-ten2.m3u8
-#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten3hd.jpg",Sony Ten 3
-http://103.209.173.14:9966/private-server1/stream/ten3.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect1.jpg",Star Sport Select 1
-http://103.209.173.14:9966/private-server2/stream/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect2.jpg",Star Sport Select 2
-http://103.209.173.14:9966/private-server2/stream/select2.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/ptvsports.jpg",Ptv
-http://103.209.173.14:9966/private-server2/stream/PTV.m3u8
