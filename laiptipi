@@ -224,71 +224,6 @@ https://realbitsport.com/n-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://realbitsport.com/n-5.m3u8
 
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/live.jpg",1Live
-http://103.209.173.14:9966/private-server1/stream/1LIVE.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/geosuper.jpg",Geo Super
-http://103.209.173.14:9966/private-server1/stream/GEO-SUPER.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/foxsports1.jpg",Fox Sports Cricket
-http://103.209.173.14:9966/private-server1/stream/FOX-SPORTS-CRICKET.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/skycricket.jpg",Sky Sports Cricket
-http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-CRICKET.m3u8 
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/skymainevent.jpg",Sky Sports Main Event
-http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-MAIN-EVENT.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/skyfootball.jpg",Sky Sports Football Hd
-http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-FOOTBALL-HD.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/skyfootball.jpg",Sky Sports Arena
-http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-ARENA.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/skypremierleague.jpg",Sky Sports
-Premier Leage http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-PREMIER-LEAGE.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/Willow-Xtra.jpg",Willow Extra
-http://103.209.173.14:9966/private-server1/stream/willow-extra.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/willowhd.jpg",Willow Cricket
-http://103.209.173.14:9966/private-server1/stream/willow-cricket.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/super-cricker-live.jpg",Super Cricket
-http://103.209.173.14:9966/private-server1/stream/super-cricket.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ARENA-SPORTS-1-HD.jpg",Arena Sports 4 Hd
-http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-4-HD.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ARENA-SPORTS-1-HD.jpg",Arena Sports 1 Hd
-http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-1-HD.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/tensports.jpg",Ten Ckicket Pk
-http://103.209.173.14:9966/private-server1/stream/ten-ckicket-pk.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein1.jpg",Bein 1
-http://103.209.173.14:9966/private-server1/stream/bein-1.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein2.jpg",Bein 2
-http://103.209.173.14:9966/private-server1/stream/bein-2.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein3.jpg",Bein 3
-http://103.209.173.14:9966/private-server1/stream/bein-3.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein4.jpg",Bein 4
-http://103.209.173.14:9966/private-server1/stream/bein-4.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/beinpremium2.jpg",Bein Premium 2
-http://103.209.173.14:9966/private-server1/stream/bein-premium-2.m3u8
-
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ptvsports.jpg",Ptv
-http://103.209.173.14:9966/private-server1/stream/PTV.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/sports.jpg",Tv13
-http://103.209.173.14:9966/private-server1/stream/tv13.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/sports.jpg",Tv14
-http://103.209.173.14:9966/private-server1/stream/tv14.m3u8
-
-
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/live.jpg",1Live
-http://103.209.173.14:9966/private-server2/stream/1LIVE.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/bein1.jpg",Bein 1
-http://103.209.173.14:9966/private-server2/stream/bein-1.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/bein2.jpg",Bein 2
-http://103.209.173.14:9966/private-server2/stream/bein-2.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/bein3.jpg",Bein 3
-http://103.209.173.14:9966/private-server2/stream/bein-3.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/bein4.jpg",Bein 4
-http://103.209.173.14:9966/private-server2/stream/bein-4.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/sonysixhd.jpg",Sony Six Hd
-http://103.209.173.14:9966/private-server2/stream/sony-six-hd.m3u8
-
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/sports.jpg",Tv13
-http://103.209.173.14:9966/private-server2/stream/tv13.m3u8
-#EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/sports.jpg",Tv14
-http://103.209.173.14:9966/private-server2/stream/tv14.m3u8
-
 #EXTINF:-1 group-title="Sports 1",Astro SuperSport 1
 http://103.209.173.14:9966/daddy/stream/123.m3u8
 #EXTINF:-1 group-title="Sports 1",Astro SuperSport 2 
@@ -298,7 +233,17 @@ http://103.209.173.14:9966/daddy/stream/125.m3u8
 #EXTINF:-1 group-title="Sports 1",Astro SuperSport 4
 http://103.209.173.14:9966/daddy/stream/126.m3u8 
 #EXTINF:-1 group-title="Sports 1",Astro SuperSport 5
-http://103.209.173.14:9966/daddy/stream/43.m3u8 
+http://103.209.173.14:9966/daddy/stream/43.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein1.jpg",Bein 1
+http://103.209.173.14:9966/private-server1/stream/bein-1.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein2.jpg",Bein 2
+http://103.209.173.14:9966/private-server1/stream/bein-2.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein3.jpg",Bein 3
+http://103.209.173.14:9966/private-server1/stream/bein-3.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein4.jpg",Bein 4
+http://103.209.173.14:9966/private-server1/stream/bein-4.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/beinpremium2.jpg",Bein Premium 2
+http://103.209.173.14:9966/private-server1/stream/bein-premium-2.m3u8
 #EXTINF:-1 group-title="Sports 1",SSC Sport 1 
 http://103.209.173.14:9966/daddy/stream/614.m3u8
 #EXTINF:-1 group-title="Sports 1",SSC Sport 2 
@@ -334,11 +279,11 @@ http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-3.m3u8
 http://103.209.173.14:9966/private-server2/stream/Adsports1.m3u8
 #EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/adsports2.jpg",Adsports2
 http://103.209.173.14:9966/private-server2/stream/Adsports2.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten1hd.jpg",Sony Ten 1
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten1hd.jpg",Sony Ten 1
 http://103.209.173.14:9966/private-server1/stream/ten1-hd.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten2hd.jpg",Sony Ten 2
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten2hd.jpg",Sony Ten 2
 http://103.209.173.14:9966/private-server1/stream/sony-ten2.m3u8
-#EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten3hd.jpg",Sony Ten 3
+#EXTINF:-1 group-title="Sports 1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten3hd.jpg",Sony Ten 3
 http://103.209.173.14:9966/private-server1/stream/ten3.m3u8
 #EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starselect1.jpg",Star Sport Select 1
 http://103.209.173.14:9966/private-server2/stream/Star_Sport_Select1HD.m3u8
