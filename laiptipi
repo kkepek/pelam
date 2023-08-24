@@ -213,6 +213,16 @@ https://us.catchystream.xyz/playlist/stream_8.m3u8
 https://us.catchystream.xyz/playlist/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://us.catchystream.xyz/playlist/stream_10.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+https://realbitsport.com/n-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+https://realbitsport.com/n-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+https://realbitsport.com/n-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+https://realbitsport.com/n-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+https://realbitsport.com/n-5.m3u8
 
 #EXTINF:-1 group-title="Sports - SERVER1" tvg-logo="http://103.209.173.14:9966/private-server1/logo/live.jpg",1Live
 http://103.209.173.14:9966/private-server1/stream/1LIVE.m3u8
