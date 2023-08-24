@@ -261,13 +261,17 @@ http://103.209.173.14:9966/daddy/stream/620.m3u8
 #EXTINF:-1 group-title="Sports 1",SSC Sport Extra 3
 http://103.209.173.14:9966/daddy/stream/621.m3u8
 #EXTINF:-1 group-title="Sports 1",Arena Sport 1
-http://103.209.173.14:9966/daddy/stream/429.m3u8 
+http://103.209.173.14:9966/daddy/stream/429.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="",Arena Sport 1
+http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-1-HD.m3u8
 #EXTINF:-1 group-title="Sports 1",Arena Sport 2
 http://103.209.173.14:9966/daddy/stream/433.m3u8 
 #EXTINF:-1 group-title="Sports 1",Arena Sport 3
 http://103.209.173.14:9966/daddy/stream/434.m3u8 
 #EXTINF:-1 group-title="Sports 1",Arena Sport 4
 http://103.209.173.14:9966/daddy/stream/580.m3u8
+#EXTINF:-1 group-title="Sports 1" tvg-logo="",Arena Sport 4
+http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-4-HD.m3u8
 
 #EXTINF:-1 group-title="Sports 2" tvg-logo="http://103.209.173.14:9966/private-server2/logo/starsports1.jpg",Star Sports 1
 http://103.209.173.14:9966/private-server2/stream/STAR-SPORTS-1.m3u8
