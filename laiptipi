@@ -162,6 +162,59 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest",Sukan RTM
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="tv1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/640px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 Malaysia
+#EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="tv2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/640px-TV2_%28Malaysia%29_logo.svg.png",TV2 Malaysia
+#EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="tv3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3 Malaysia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_tiga
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",TV6 Malaysia
+#EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="8tv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/640px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV (TV8 Malaysia)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_lapan
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="tv9.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/640px-TV9_%28Malaysia%29_logo.svg.png",TV9 Malaysia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_sembilan
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+#EXTINF:-1 group-title=""Malaysia"" tvg-logo="https://i.imgur.com/EF2iz96.png",Selangor TV
+https://skyios.sky4k.top/S1G_010/playlist.m3u8
+#EXTINF:-1 group-title=""Malaysia"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
+#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka
+#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
+https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="astrosupersport.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest",Astro SuperSport 1
+#EXTVLCOPT:http-referrer="https://streamservicehd.click/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://KawaguchiMaeda230810.b-cdn.net/play/deddilive/premium123/index.m3u8
+
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="astrosupersport2.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest",Astro SuperSport 2
+#EXTVLCOPT:http-referrer="https://streamservicehd.click/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://KawaguchiMaeda230810.b-cdn.net/play/deddilive/premium124/index.m3u8
+
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="astrosupersport3.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest",Astro SuperSport 3
+#EXTVLCOPT:http-referrer="https://streamservicehd.click/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://KawaguchiMaeda230810.b-cdn.net/play/deddilive/premium125/index.m3u8
+
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="astrosupersport4.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest",Astro SuperSport 4
+#EXTVLCOPT:http-referrer="https://streamservicehd.click/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://KawaguchiMaeda230810.b-cdn.net/play/deddilive/premium126/index.m3u8
+
+#EXTINF:-1 group-title=""Malaysia"" tvg-id="astrosupersport5.my" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/AstroSupersport5Flat.png/revision/latest",Astro SuperSport 5
+#EXTVLCOPT:http-referrer="https://streamservicehd.click/"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+https://KawaguchiMaeda230810.b-cdn.net/play/deddilive/premium43/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 1",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
