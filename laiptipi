@@ -156,6 +156,13 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8
 
+#EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live
+#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest",Sukan RTM
+#EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 1",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 1",LIVE 
