@@ -227,10 +227,16 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",Formula 1
 https://us.catchystream.xyz/playlist/stream_f1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",Formula 1
+https://realbitsport.com/n-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",NFL
 https://us.catchystream.xyz/playlist/stream_nfl1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",NFL 2
 https://us.catchystream.xyz/playlist/stream_nfl2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",UFC 1
+https://catchystream.xyz/playlist/stream_ufc1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",UFC 2
+https://realbitsport.com/ufc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://us.catchystream.xyz/playlist/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
@@ -251,7 +257,7 @@ https://us.catchystream.xyz/playlist/stream_8.m3u8
 https://us.catchystream.xyz/playlist/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://us.catchystream.xyz/playlist/stream_10.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",EPL
 https://realbitsport.com/n-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Live Sport 2",LIVE
 https://realbitsport.com/n-2.m3u8
