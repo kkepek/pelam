@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-meg-2-the-trench-2023-lk21-d21.jpg" group-title="Action/Crime",[2023] Meg 2: The Trench
+https://pixeldrain.com/api/file/S4ibMiFh
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-heart-of-stone-2023-lk21-d21.jpg" group-title="Action/Crime",[2023] Heart Of Stone
 https://pixeldrain.com/api/file/9Q5Gy5MC
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-apaches-2023-lk21-d21.jpg" group-title="Action/Crime",[2023] Apaches
@@ -86,6 +88,8 @@ https://pixeldrain.com/api/file/T4z9KYGp
 #EXTINF:-1 tvg-logo="https://onionplay-network.stream/2022/02/ppd84D2i9W8jXmsyInGyihiSyqz-200x300.jpg" group-title="Action/Crime",[1957] 12 Angry Man
 https://pixeldrain.com/api/file/8xHG2aXK
 
+#EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-vacation-friends-2-2023-lk21-d21.jpg" group-title="Adventure",[2023] Vacation Friends 2
+https://pixeldrain.com/api/file/k9QM6wXm
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-the-three-musketeers-dartagnan-2023-lk21-d21.jpg" group-title="Adventure",[2023] The Three Musketeers: D’Artagnan
 https://pixeldrain.com/api/file/D19x3PUJ
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/08/film-die-drei-erbe-des-drachen-2023-lk21-d21.jpg" group-title="Adventure",[2023] Die drei ??? – Erbe des Drachen
@@ -242,6 +246,8 @@ https://pixeldrain.com/api/file/4EcvJbXs
 https://pixeldrain.com/api/file/hNg4cLPc
 
 
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/08/film-the-dive-2023-lk21-d21.jpg" group-title="Horror/Thriller/Mistery",[2023] The Dive
+https://pixeldrain.com/api/file/hBM6x7BV
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/08/film-cobweb-2023-lk21-d21.jpg" group-title="Horror/Thriller/Mistery",[2023] Cobweb
 https://pixeldrain.com/api/file/duaTUSXi
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2023/08/film-the-river-wild-2023-lk21-d21.jpg" group-title="Horror/Thriller/Mistery",[2023] The River Wild
@@ -270,6 +276,8 @@ https://pixeldrain.com/api/file/hDfQoAWe
 https://pixeldrain.com/api/file/azsroVvM
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/08/film-the-house-among-the-cactuses-la-casa-entre-los-cactus-2022-lk21-d21.jpg" group-title="Horror/Thriller/Mistery",[2022] The House Among the Cactuses
 https://pixeldrain.com/api/file/Mg6FtZnM
+#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2021/11/film-paranormal-activity-next-of-kin-2021-d21.jpg" group-title="Horror/Thriller/Mistery",[2021] Paranormal Activity: Next of Kin
+https://pixeldrain.com/api/file/zjEzkY7e
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2018/01/film-insidious-last-key-2018.jpg" group-title="Horror/Thriller/Mistery",[2018] Insidious: The Last Key
 https://pixeldrain.com/api/file/6tS7VcQd
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-insidious-chapter-3-2015.jpg" group-title="Horror/Thriller/Mistery",[2015] Insidious: Chapter 3
@@ -430,6 +438,8 @@ https://pixeldrain.com/api/file/GLVYCnk2
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2017/04/film-detective-chinatown-2015.jpg" group-title="China",[2015] Detective Chinatown
 https://pixeldrain.com/api/file/rCpXG69W
 
+#EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/08/film-por-thozhil-2023-lk21-d21.jpg" group-title="India",[2023] Por Thozhil
+https://pixeldrain.com/api/file/JDK62hzR
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/08/film-adipurush-2023-lk21-d21.jpg" group-title="India",[2023] Adipurush
 https://pixeldrain.com/api/file/BjRYYQzo
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/08/film-amala-2023-lk21-d21.jpg" group-title="India",[2023] Amala
