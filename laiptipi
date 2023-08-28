@@ -277,19 +277,9 @@ https://sports1.freesport.info/playlist/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 3",LIVE
 https://fre3.freesport.info/playlist/stream_10.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Sheffield United vs Manchester City
-https://realbitsport.com/n-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Burnley vs Aston Villa
-https://realbitsport.com/n-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Newcastle United vs Liverpool
-https://storage.googleapis.com/linuceovo1/selector.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Villarreal vs Barcelona
-https://realbitsport.com/n-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Athletic Club vs Real Betis
-https://realbitsport.com/n-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Juventus vs Bologna
-https://realbitsport.com/n-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Napoli vs Sassuolo
-https://realbitsport.com/n-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Bayern München vs Augsburg
-https://realbitsport.com/n-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",River Plate vs Barracas Central
+https://b7i4j3n3.stackpathcdn.com/xegew54447/1693169654/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Pumas vs Tigres
+https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.ahamFUQk4Wyj.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Herediano vs Alajuelense
+https://a03ddb580441.us-east-1.playback.live-video.net/api/video/v1/us-east-1.311122646616.channel.vsHzEOAt5iXd.m3u8
