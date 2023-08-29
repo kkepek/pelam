@@ -156,13 +156,6 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="Singapore" tvg-id="mewatch.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Mewatch_2023.svg/revision/latest/scale-to-width-down/640",mewatch
-https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
-#EXTINF:-1 group-title="Singapore" tvg-id="mewatchlive1.sg" tvg-logo="https://i.postimg.cc/mZSGGg97/live1.png",mewatch Live 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="Singapore" tvg-id="mewatchlive2.sg" tvg-logo="https://i.postimg.cc/13kdqk69/live2.png",mewatch Live 2
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
