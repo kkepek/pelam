@@ -226,7 +226,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Inter Miami CF vs Nashville
-https://179720687.global.cdnfastest.com/live/sd-8yomo4hgypkoq0j/chunklist_w496448125.m3u8
+#https://179720687.global.cdnfastest.com/live/sd-8yomo4hgypkoq0j/chunklist_w496448125.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",Inter Miami CF vs Nashville
 https://play1nm.hnyongshun.cn/live/sd-8yomo4hgypkoq0j.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE 4",[02:00] Salford City vs Leeds United
