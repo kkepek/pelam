@@ -235,6 +235,8 @@ https://livenflstream.xyz/playlist/stream_moto.m3u8
 https://nixe.realbitsport.com/live/n-7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream EPL",EPL
+https://storage.googleapis.com/hibreal1/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream EPL",EPL
 https://livenflstream.xyz/playlist/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream EPL",EPL
 https://work.realbitsport.com/live/n-1/chunks.m3u8
@@ -255,6 +257,8 @@ https://livenflstream.xyz/playlist/stream_4.m3u8
 https://livenflstream.xyz/playlist/stream_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Laliga",LaLiga
 https://work.realbitsport.com/live/n-5/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Laliga",LaLiga
+https://work.realbitsport.com/live/n-2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Bundesliga",Bundesliga
 https://webproxifiers.online/playlist/stream_e2.m3u8
@@ -278,6 +282,8 @@ https://livenflstream.xyz/playlist/stream_3.m3u8
 https://livenflstream.xyz/playlist/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Ligue 1",Ligue 1
 https://livenflstream.xyz/playlist/stream_8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Ligue 1",Ligue 1
+https://storage.googleapis.com/hibreal1/mux_video_ts/index-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream Seri A",Serie A
 https://livenflstream.xyz/playlist/stream_6.m3u8
