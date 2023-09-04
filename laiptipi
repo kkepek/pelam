@@ -192,9 +192,5 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="MLS",MLS
-https://livenflstream.xyz/playlist/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="MLS",MLS
-https://livenflstream.xyz/playlist/stream_2.m3u8
 
 
