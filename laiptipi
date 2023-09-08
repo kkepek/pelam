@@ -242,9 +242,9 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Stream 2 ",INDONESIA VS TURKMENISTAN
-https://live.vbfast.xyz/940debabba23ccc51866021ba7295da0/1694217472157/majhccy/majhccy@720p.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001694176026-0-0-bd4b9aa5b8fe6bfcdfe79de05aa1a96e
 #EXTINF:-1 tvg-logo="" group-title="Stream 2 ",INDONESIA VS TURKMENISTAN
-https://live.vbfast.xyz/ae606040893443e5835dcfa52001d1cf/1694217618750/majhccy/majhccy@720p.m3u8
+https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001694176060-0-0-593ac076d9886d990d3b2495c703d1e4
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 1
 https://livenflstream.xyz/playlist/stream_1.m3u8
