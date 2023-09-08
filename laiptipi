@@ -224,9 +224,9 @@ https://livenflstream.xyz/playlist/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 7
 https://livenflstream.xyz/playlist/stream_7.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 8
-https://storage.googleapis.com/ulinginovo1/selector.m3u8
+https://work.realbitsport.com/live/n-1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 9
-https://storage.googleapis.com/ulinginovo2/selector.m3u8
+https://work.realbitsport.com/live/n-2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 10
 https://work.realbitsport.com/live/n-3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 11
@@ -234,6 +234,4 @@ https://work.realbitsport.com/live/n-4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 12
 https://work.realbitsport.com/live/n-5/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 13
-https://storage.googleapis.com/tostaturaovo1/selector.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 14
-https://storage.googleapis.com/tostaturaovo1/selector.m3u8
+https://work.realbitsport.com/live/n-6/chunks.m3u8
