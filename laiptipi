@@ -254,7 +254,19 @@ https://livenflstream.xyz/playlist/stream_6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 http://cdn-mnc.qreatifku.my.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://tvkuonline.my.id:25461/riyad/riyad/8
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151185.ts
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157591
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 https://m2.ballnaja.com:8443/Soccer_Channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 1
