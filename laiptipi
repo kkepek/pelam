@@ -241,9 +241,16 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream 1",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Stream 2 ",FIBA WORLD CUP
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",Top Rank Boxing
 https://webproxifiers.online/playlist/stream_e10.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",UFC
+https://webproxifiers.online/playlist/stream_e3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",MMA
+https://work.realbitsport.com/live/n-7/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",Moto GP
+https://livenflstream.xyz/playlist/stream_moto.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",Rugby World Cup 2023
+https://livenflstream.xyz/playlist/stream_6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2 ",INDONESIA VS TURKMENISTAN
 https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001694176026-0-0-bd4b9aa5b8fe6bfcdfe79de05aa1a96e
 #EXTINF:-1 tvg-logo="" group-title="Stream 2 ",INDONESIA VS TURKMENISTAN
