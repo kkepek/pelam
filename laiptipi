@@ -241,28 +241,12 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/ind
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="Stream 1",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD16_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",FIBA Worldcup FHD
-https://obevcimanyd179314182.thapcam.link/live/cayFHD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",FIBA Worldcup HD
-https://1123139281.cdn.khmer-hd.com/cayHD/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",FIBA Worldcup SD
-https://obevcimanyd179314182.thapcam.link/live/caySD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",Detroit vs Miami FC
-https://mo3ad@stream.dlivecdn.com/bjrn3k5436/1694299368/src/live.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",Top Rank Boxing
-https://webproxifiers.online/playlist/stream_e10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",UFC
-https://webproxifiers.online/playlist/stream_e3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",MMA
-https://work.realbitsport.com/live/n-7/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",Moto GP
-https://livenflstream.xyz/playlist/stream_moto.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Stream 2",Rugby World Cup 2023
-https://livenflstream.xyz/playlist/stream_6.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 http://cdn-mnc.qreatifku.my.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/157591
+#EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 http://tvkuonline.my.id:25461/riyad/riyad/8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
@@ -273,8 +257,6 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157591
 https://m2.ballnaja.com:8443/Soccer_Channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Stream 2",TIMNAS
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/48f85eaa12bac39ab24138a45faa5e3f.jpg" group-title="🔴 UEFA Euro Qualifying",Live 1
