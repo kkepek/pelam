@@ -53,6 +53,9 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXzkCzP/inwonder.png" group-title="Education", INWONDER
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp Drama Special
+https://ythls.onrender.com/video/LpSeeRFGa0I.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pxVNmf/m2o.png" group-title="Music",m2o TV
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KrXQh04/kpop.png" group-title="Music",KPOP TV
