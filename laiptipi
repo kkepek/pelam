@@ -53,6 +53,11 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXzkCzP/inwonder.png" group-title="Education", INWONDER
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",ESPN 1
+http://151.248.16.100:4444/ESPN1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",ESPN 2
+http://151.248.16.100:4444/ESPN2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp Drama Special
 https://ythls.onrender.com/video/LpSeeRFGa0I.m3u8
 
