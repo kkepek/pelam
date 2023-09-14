@@ -1,10 +1,20 @@
-#EXTINF:-1 tvg-logo="" group-title="Golf",
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/2280.ts
 #EXTINF:-1 tvg-logo="" group-title="Golf",NBC Golf
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/2207.ts
+http://kuchini.site:8080/devtv/5af3eeb538/5845
+#EXTINF:-1 tvg-logo="" group-title="Golf",Golf
+http://kuchini.site:8080/devtv/5af3eeb538/298534
 #EXTINF:-1 tvg-logo="" group-title="Golf",SuperSport Golf
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/4133.ts
+http://kuchini.site:8080/devtv/5af3eeb538/11641
 #EXTINF:-1 tvg-logo="" group-title="Golf",Sky Sport Golf
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/4099.ts
+http://kuchini.site:8080/devtv/5af3eeb538/264
 #EXTINF:-1 tvg-logo="" group-title="Golf",The Golf Channel
-https://flarestream.tv:443/iptv-epg/LnkXHiYtmd/879.ts
+http://kuchini.site:8080/devtv/5af3eeb538/26575
+#EXTINF:-1 tvg-logo="" group-title="Golf",Golf +
+http://kuchini.site:8080/devtv/5af3eeb538/1934
+#EXTINF:-1 tvg-logo="" group-title="Golf",Play Sport Golf
+http://kuchini.site:8080/devtv/5af3eeb538/276476
+#EXTINF:-1 tvg-logo="" group-title="Golf",ZIGGO Golf
+http://kuchini.site:8080/devtv/5af3eeb538/4514
+#EXTINF:-1 tvg-logo="" group-title="Golf",MOVISTAR Golf
+http://kuchini.site:8080/devtv/5af3eeb538/1142
+#EXTINF:-1 tvg-logo="" group-title="Golf",V Sport Golf
+http://kuchini.site:8080/devtv/5af3eeb538/298451
