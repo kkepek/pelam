@@ -285,15 +285,15 @@ https://sportsleading.online/live/stream_e3.m3u8
 https://sportsleading.online/live/stream_e4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 1
-https://work.ovo-line.com/live/n-1/chunks.m3u8
+https://storage.googleapis.com/onixrealbitts1/selector.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 2
-https://work.ovo-line.com/live/n-2/chunks.m3u8
+https://storage.googleapis.com/onixrealbitts2/selector.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 3
-https://work.ovo-line.com/live/n-3/chunks.m3u8
+https://storage.googleapis.com/onixrealbitts3/selector.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 4
-https://work.ovo-line.com/live/n-4/chunks.m3u8
+https://storage.googleapis.com/onixrealbitts4/selector.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 5
-https://work.ovo-line.com/live/n-5/chunks.m3u8
+https://storage.googleapis.com/onixrealbitts5/selector.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 6
 https://work.ovo-line.com/live/n-6/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 7
