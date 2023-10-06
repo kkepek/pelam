@@ -57,6 +57,24 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 http://151.248.16.100:4444/ESPN1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",ESPN 2
 http://151.248.16.100:4444/ESPN2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Bein 1 EN
+https://mo3ad@af.ayassport.ir/hls2/bein1en.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Bein 2 EN
+https://mo3ad@af.ayassport.ir/hls2/bein2en.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Bein 3 EN
+https://mo3ad@af.ayassport.ir/hls2/bein3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Bein 4 EN
+https://mo3ad@af.ayassport.ir/hls2/bein4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Arena Sport 1
+http://mo3ad@93.155.227.38:555/m3u8/arenasport1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Arena Sport 2
+http://mo3ad@93.155.227.38:555/m3u8/arenasport2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Arena Sport 3
+http://mo3ad@93.155.227.38:555/m3u8/arenasport3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Arena Sport 4
+http://mo3ad@93.155.227.38:555/m3u8/arenasport4.m3u8
+
+http://mo3ad@93.155.227.38:555/m3u8/arenasport5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp Drama Special
 https://ythls.onrender.com/video/LpSeeRFGa0I.m3u8
