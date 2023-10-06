@@ -61,9 +61,11 @@ http://151.248.16.100:4444/ESPN2/index.m3u8
 https://mo3ad@af.ayassport.ir/hls2/bein1en.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWYp8G4/beinen2.png" group-title="VIP Sports 1",Bein 2 EN
 https://mo3ad@af.ayassport.ir/hls2/bein2en.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wd0cM8C/beinen3.png" group-title="VIP Sports 1",Bein 3 EN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wd0cM8C/beinen3.png" group-title="VIP Sports 1",Bein 3 AR
 https://mo3ad@af.ayassport.ir/hls2/bein3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Bein 4 EN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wd0cM8C/beinen3.png" group-title="VIP Sports 1",Bein 3 FR
+https://mo3ad@af.ayassport.ir/hls2/bein3fr.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwRQDwg/bein4.png" group-title="VIP Sports 1",Bein 4 EN
 https://mo3ad@af.ayassport.ir/hls2/bein4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports 1",Arena Sport 1
 http://mo3ad@93.155.227.38:555/m3u8/arenasport1.m3u8
