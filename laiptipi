@@ -321,24 +321,3 @@ https://sportsleading.online/live/stream_box2.m3u8
 https://sportsleading.online/live/stream_f1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",UFC
 https://sportsleading.online/live/stream_ufc.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 1
-https://storage.googleapis.com/onixrealbitts1/selector.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 2
-https://storage.googleapis.com/onixrealbitts2/selector.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 3
-https://storage.googleapis.com/onixrealbitts3/selector.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 4
-https://storage.googleapis.com/onixrealbitts4/selector.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 5
-https://storage.googleapis.com/onixrealbitts5/selector.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 6
-https://work.ovo-line.com/live/n-6/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 7
-https://work.ovo-line.com/live/n-7/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",Live 8
-https://work.ovo-line.com/live/n-8/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",F1
-https://work.ovo-line.com/live/n-f1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3",UFC
-https://realbitsport.com/ufc.m3u8
