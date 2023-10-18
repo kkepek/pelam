@@ -321,3 +321,40 @@ https://sportsleading.online/live/stream_box2.m3u8
 https://sportsleading.online/live/stream_f1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",UFC
 https://sportsleading.online/live/stream_ufc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 1
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 2
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 3
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 4
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 5
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 6
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 7
+https://headlinessportsfoot.com/chunklist/hlsch7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 8
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 9
+https://headlinessportsfoot.com/chunklist/hlsch9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 10
+https://headlinessportsfoot.com/chunklist/hlsch10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 11
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 12
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 13
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 14
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 15
+https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 16
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 17
+https://headlinessportsfoot.com/chunklist/hlsch17.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 18
+https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
