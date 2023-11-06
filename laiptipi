@@ -11,9 +11,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RX76W2/K.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKXfjR8/rockent.png" group-title="Movies",Rock Entertainment
-http://210.210.155.35/dr9445/h/h16/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d68Zs57/KIX.png" group-title="Movies",KIX
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -52,9 +49,6 @@ https://introuble-samsungau.amagi.tv/playlist.m3u8
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXzkCzP/inwonder.png" group-title="Education", INWONDER
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Singapore",Mediacorp Drama Special
-https://ythls.onrender.com/video/LpSeeRFGa0I.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",24/7 A State of Trance Radio
 https://ythls.onrender.com/video/5lMmnfVylEE.m3u8
