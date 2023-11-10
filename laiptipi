@@ -278,20 +278,6 @@ https://hls.streambtw.com/live/stream_e7.m3u8
 https://hls.streambtw.com/live/stream_e8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",Live 19
 https://hls.streambtw.com/live/stream_e8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",BOXING
-https://hls.streambtw.com/live/stream_box1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",BOXING 2
-https://hls.streambtw.com/live/stream_box2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",BOXING 3
-https://sports.freesportstime.com/live/stream_box1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",F1
-https://hls.streambtw.com/live/stream_f1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",UFC
-https://hls.streambtw.com/live/stream_ufc.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",MOTO GP
-https://hls.streambtw.com/live/stream_moto.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 2",MOTO GP
-https://sports.freesportstime.com/live/stream_moto.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
@@ -333,3 +319,22 @@ https://headlinessportsfoot.com/chunklist/hlsch18.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 20
 https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
+https://sports.freesportstime.com/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
+https://sportsleading.online/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",BOXING
+https://hls.streambtw.com/live/stream_box1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",BOXING
+https://hls.streambtw.com/live/stream_box2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",BOXING
+https://sports.freesportstime.com/live/stream_box1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",F1
+https://hls.streambtw.com/live/stream_f1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",UFC
+https://hls.streambtw.com/live/stream_ufc.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",MOTO GP
+https://hls.streambtw.com/live/stream_moto.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",MOTO GP
+https://sports.freesportstime.com/live/stream_moto.m3u8
