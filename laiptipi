@@ -208,9 +208,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="U17 WorldCup",LIVE
-#https://apisportvb90xltcbk.nsnd.live/live/sd-x7lm7phz0v04m2w/chunklist_w45776662.m3u8
+https://apisportvb90xltcbk.nsnd.live/live/sd-ednm9wh7zoveryo/chunklist_w1524686388.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="U17 WorldCup",LIVE
-#https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
+https://obevcimanyd179314182.thapcam.link/live/Z1FHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BwmVGH1/live.png" group-title="LIVE EVENT 1",LIVE 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
