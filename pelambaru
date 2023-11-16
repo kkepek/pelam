@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/vBZ0qvaRxqEhZwl6LWmruJqWE8Z-170x255.jpg" group-title="November Upload",[2023] The Creator
+https://pixeldrain.com/api/file/hSvPDE6E
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/11/6NjBGIlnbmpT0vn8YtSbVgOgQiv-170x255.jpg" group-title="November Upload",[2023] Japino
 https://pixeldrain.com/api/file/TgfPp7Er
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/10/nbrqj9q8WubD3QkYm7n3GhjN7kE-170x255.jpg" group-title="November Upload",[2023] Oppenheimer
@@ -312,6 +313,7 @@ https://pixeldrain.com/api/file/PdVCiQgq
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/06/lyQBXzOQSuE59IsHyhrp0qIiPAz-170x255.jpg" group-title="Drama/Family",[1994] The Shawshank Redemption
 https://pixeldrain.com/api/file/5uZYTpqX
 
+
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/11/1Xgjl22MkAZQUavvOeBqRehrvqO-170x255.jpg" group-title="Fantasy",[2023] A Haunting in Venice
 #https://pixeldrain.com/api/file/Kb3fkaiw
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/10/8Im6DknDVxRiGXc5t8rVOJyzuNx-170x255.jpg" group-title="Fantasy",[2023] Haunted Mansion
@@ -410,6 +412,8 @@ https://pixeldrain.com/api/file/i4hFF9RF
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-zodiac-2007.jpg" group-title="Horror/Thriller/Mistery",[2007] Zodiac
 https://pixeldrain.com/api/file/WEDyymTB
 
+#EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/vBZ0qvaRxqEhZwl6LWmruJqWE8Z-170x255.jpg" group-title="Sci-Fi",[2023] The Creator
+https://pixeldrain.com/api/file/hSvPDE6E
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/10/gPSnanVAnKgycgc3SJGcutXCe9A-170x255.jpg" group-title="Sci-Fi",[2023] Awareness
 https://pixeldrain.com/api/file/ZtHo1YwA
 #EXTINF:-1 tvg-logo="https://nge-film21.biz/wp-content/uploads/2023/10/dfS5qHWFuXyZQnwYREwb7N4qU5p-170x255.jpg" group-title="Sci-Fi",[2023] 57 Seconds
