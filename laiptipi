@@ -51,29 +51,29 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",24/7 A State of Trance Radio
-https://ythls.onrender.com/video/5lMmnfVylEE.m3u8
+#https://ythls.onrender.com/video/5lMmnfVylEE.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Musica Klasik
-https://ythls.onrender.com/video/KQ98HI8Jevg.m3u8
+#https://ythls.onrender.com/video/ZONJYOxIhRY.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sQ8bfXv/musica.png" group-title="Music",Lagu Indonesia Sepanjang Masa
-https://ythls.onrender.com/video/VcEwSKMHzpk.m3u8
+#https://ythls.onrender.com/video/-aX6PQ92ZLo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDyMg5F/nagaswara.png" group-title="Music",Hits Dangdut Koplo
-https://ythls.onrender.com/video/Gvfr_OoTp1E.m3u8
+#https://ythls.onrender.com/video/Gvfr_OoTp1E.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Pop Indonesia
-https://ythls.onrender.com/video/CNUedJo2ve0.m3u8
+#https://ythls.onrender.com/video/CNUedJo2ve0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",TOP 1000 MV DanceDhut
-https://ythls.onrender.com/video/NYoNORroe3o.m3u8
+#https://ythls.onrender.com/video/NYoNORroe3o.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RH2T7qM/noah.png" group-title="Music",NOAH
-https://ythls.onrender.com/video/8Z_aaVwXYmY.m3u8
+#https://ythls.onrender.com/video/8Z_aaVwXYmY.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whS4Ws5/nuclear.png" group-title="Music",NUCLEAR BLAST RECORDS
-https://ythls.onrender.com/video/lCjVa1c5zKw.m3u8
+#https://ythls.onrender.com/video/lCjVa1c5zKw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Kumpulan Lagu Islami Terbaik 2023
-https://ythls.onrender.com/video/R8W28OzvGO0.m3u8
+#https://ythls.onrender.com/video/R8W28OzvGO0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",THE K-POP : 24/7 Live
-https://ythls.onrender.com/video/JVocS7Yftw8.m3u8
+#https://ythls.onrender.com/video/JVocS7Yftw8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Live Nonstop Dangdut Klasik pilihan Terpopuler
-https://ythls.onrender.com/video/vj6lXUdzBTQ.m3u8
+#https://ythls.onrender.com/video/vj6lXUdzBTQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Live Lagu Malaysia LAWAS
-https://ythls.onrender.com/video/WQKO3t1JhaA.m3u8
+#https://ythls.onrender.com/video/WQKO3t1JhaA.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick Pluto
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
@@ -361,6 +361,8 @@ https://hls.streambtw.com/live/stream_f1.m3u8
 https://hls.streambtw.com/live/stream_ufc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",UFC
 https://cracksportz.lat/live/stream_ufc1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",UFC
+https://sports.freesportstime.com/live/stream_ufc1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",MOTO GP
 https://hls.streambtw.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",MOTO GP
