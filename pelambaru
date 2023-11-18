@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/e7Jvsry47JJQruuezjU2X1Z6J77-170x255.jpg" group-title="November Upload",[2023] The Killer
+https://pixeldrain.com/api/file/hMXKGjry
 #EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/vBZ0qvaRxqEhZwl6LWmruJqWE8Z-170x255.jpg" group-title="November Upload",[2023] The Creator
 https://pixeldrain.com/api/file/hSvPDE6E
 #EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/6NjBGIlnbmpT0vn8YtSbVgOgQiv-170x255.jpg" group-title="November Upload",[2023] Japino
@@ -16,6 +18,8 @@ https://pixeldrain.com/api/file/rZGGPoP7
 #EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/01/iO242EnvWtwXLmBgAvvrHe1xM1I-170x255.jpg" group-title="November Upload",[2022] Bugso
 https://pixeldrain.com/api/file/uVVvXtS8
 
+#EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/11/e7Jvsry47JJQruuezjU2X1Z6J77-170x255.jpg" group-title="Action/Crime",[2023] The Killer
+https://pixeldrain.com/api/file/hMXKGjry
 #EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/10/nbrqj9q8WubD3QkYm7n3GhjN7kE-170x255.jpg" group-title="Action/Crime",[2023] EXPEND4BLES
 #https://pixeldrain.com/api/file/BTh1oA6y
 #EXTINF:-1 tvg-logo="https://nge-film.shop/wp-content/uploads/2023/10/kGclAzPJobEy7qg7LNuFI9grNoh-170x255.jpg" group-title="Action/Crime",[2023] The Squad: Home Run
