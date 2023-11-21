@@ -5,7 +5,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wLRpSnQ/inspiratv.png" group-title="Local",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cJPmmj/garuda.png" group-title="Local",Garuda TV
-https://streamweb.garuda.tv/live/garudatv/chunklist_w1364389998.m3u8
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5vBPY3/indonesiana.png" group-title="Local",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
