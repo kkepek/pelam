@@ -344,16 +344,31 @@ https://headlinessportsfoot.com/chunklist/hlsch19.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 3", Live 20
 https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
+
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 1
+https://hls.streambtw.com/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 2
+https://hls.streambtw.com/live/stream_nba2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 3
+https://hls.streambtw.com/live/stream_nba3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 4
+https://hls.streambtw.com/live/stream_nba4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 5
+https://hls.streambtw.com/live/stream_nba5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 6
+https://hls.streambtw.com/live/stream_nba6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 7
+https://hls.streambtw.com/live/stream_nba7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 8
+https://hls.streambtw.com/live/stream_nba8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 9
 https://sports.freesportstime.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 10
 https://sportsleading.online/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
+#EXTINF:-1 tvg-logo="" group-title="NBA",LIVE 11
 https://sports.freesportstime.com/live/stream_nba2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
-https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4", NBA
-https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",BOXING
 https://hls.streambtw.com/live/stream_box1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",BOXING
