@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/6bMaHRr38CgDQyHrw0CzCqXUJuC-170x255.jpg" group-title="November Upload",[2023] Salakab
+https://pixeldrain.com/api/file/uyjxQYou
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/xveBJmViwHdgjH3UQQmImkHOW7B-170x255.jpg" group-title="November Upload",[2023] Viking: Bloodlust
+https://pixeldrain.com/api/file/fTJ9KLFm
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/19UbYIT9WEQS5qSD3BREDxVXk8g-170x255.jpg" group-title="November Upload",[2023] Rumble Through the Dark
+https://pixeldrain.com/api/file/oFwtu6Sg
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/08/film-the-killing-vote-2023-lk21-d21.jpg" group-title="November Upload",[2023] The Killing Vote Season 1 Episode 12 
 https://pixeldrain.com/api/file/quuXQsCT
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/e7Jvsry47JJQruuezjU2X1Z6J77-170x255.jpg" group-title="November Upload",[2023] The Killer
@@ -205,6 +211,8 @@ https://pixeldrain.com/api/file/6MfV7Kqc
 #EXTINF:-1 tvg-logo="https://tv4.lk21official.wiki/wp-content/uploads/2022/05/film-the-bad-guys-2022-lk21-d21.jpg" group-title="Animation",[2022] The Bad Guys
 https://pixeldrain.com/api/file/s22xyVWR
 
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/xveBJmViwHdgjH3UQQmImkHOW7B-170x255.jpg" group-title="Biography/Documentary/History",[2023] Viking: Bloodlust
+https://pixeldrain.com/api/file/fTJ9KLFm
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/8Gxv8gSFCU0XGDykEGv7zR1n2ua-170x255.jpg" group-title="Biography/Documentary/History",[2023] Oppenheimer
 https://pixeldrain.com/api/file/KpDnS6SL
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/flnrKe85SfgcRCW2KgUhz2Bn9yE-170x255.jpg" group-title="Biography/Documentary/History",[2023] Sly
@@ -339,6 +347,9 @@ https://pixeldrain.com/api/file/hNg4cLPc
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2022/09/film-three-thousand-years-of-longing-2022-lk21-d21.jpg" group-title="Fantasy",[2003] Three Thousand Years of Longing
 https://pixeldrain.com/api/file/b46YWTDx
 
+
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/19UbYIT9WEQS5qSD3BREDxVXk8g-170x255.jpg" group-title="Horror/Thriller/Mistery",[2023] Rumble Through the Dark
+https://pixeldrain.com/api/file/oFwtu6Sg
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/10/photo_2023-10-27_21-50-40-170x255.jpg" group-title="Horror/Thriller/Mistery",[2023] Five Nights at Freddy’s
 https://pixeldrain.com/api/file/15srYCj6
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/10/b16RAVwj2QN6RAs752UJNzQ9Of0-170x255.jpg" group-title="Horror/Thriller/Mistery",[2023] Saw X
@@ -888,6 +899,8 @@ https://pixeldrain.com/api/file/5FGf3KKz
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/06/film-pulau-2023-lk21-d21.jpg" group-title="Malay",[2023] Pulau
 https://pixeldrain.com/api/file/FrJ8DxxJ
 
+#EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/6bMaHRr38CgDQyHrw0CzCqXUJuC-170x255.jpg" group-title="Philipina",[2023] Salakab
+https://pixeldrain.com/api/file/uyjxQYou
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/6NjBGIlnbmpT0vn8YtSbVgOgQiv-170x255.jpg" group-title="Philipina",[2023] Japino
 https://pixeldrain.com/api/file/TgfPp7Er
 #EXTINF:-1 tvg-logo="https://nge-film21.click/wp-content/uploads/2023/11/rXMxhHuR1jU3G9aGZ3WupPmxEjn-170x255.jpg" group-title="Philipina",[2023] Tuhog
