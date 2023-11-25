@@ -326,6 +326,10 @@ https://hls.streambtw.com/live/stream_box2.m3u8
 https://sports.freesportstime.com/live/stream_box1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",F1
 https://hls.streambtw.com/live/stream_f1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",F1
+https://sportsleading.online/live/stream_f1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",F1
+https://worknew.crystalnew.pro/live/f1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",UFC
 https://hls.streambtw.com/live/stream_ufc.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 4",UFC
@@ -347,6 +351,10 @@ https://worknew.crystalnew.pro/live/n-3/chunks.m3u8
 https://worknew.crystalnew.pro/live/n-4/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 5
 https://worknew.crystalnew.pro/live/n-5/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 5
+https://worknew.crystalnew.pro/live/n-6/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 6
+https://worknew.crystalnew.pro/live/n-7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 1
 https://hls.streambtw.com/live/stream_nba1.m3u8
