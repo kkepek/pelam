@@ -351,9 +351,9 @@ https://worknew.crystalnew.pro/live/n-3/chunks.m3u8
 https://worknew.crystalnew.pro/live/n-4/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 5
 https://worknew.crystalnew.pro/live/n-5/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 5
-https://worknew.crystalnew.pro/live/n-6/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 6
+https://worknew.crystalnew.pro/live/n-6/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT 5", Live 7
 https://worknew.crystalnew.pro/live/n-7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 1
