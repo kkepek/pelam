@@ -322,6 +322,8 @@ https://headlinessportsfoot.com/chunklist/hlsch20.m3u8
 https://hls.streambtw.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 2",MOTO GP
 https://sports.freesportstime.com/live/stream_moto.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 2",MOTO GP
+https://247ovo.com/motogp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhmf6FF/F1.png" group-title="LIVE EVENT 2",F1
 https://hls.streambtw.com/live/stream_f1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhmf6FF/F1.png" group-title="LIVE EVENT 2",F1
