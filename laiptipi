@@ -371,19 +371,19 @@ https://sports.freesportstime.com/live/stream_ufc1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 1
-#https://worknew.crystalnew.pro/live/n-1/chunks.m3u8
+https://linecrystal.com/n-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 2
-#https://worknew.crystalnew.pro/live/n-2/chunks.m3u8
+https://linecrystal.com/n-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 3
-#https://worknew.crystalnew.pro/live/n-3/chunks.m3u8
+https://linecrystal.com/n-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 4
-#https://worknew.crystalnew.pro/live/n-4/chunks.m3u8
+https://linecrystal.com/n-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 5
-#https://worknew.crystalnew.pro/live/n-5/chunks.m3u8
+https://linecrystal.com/n-5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 6
-#https://worknew.crystalnew.pro/live/n-6/chunks.m3u8
+https://linecrystal.com/n-6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 7
-#https://worknew.crystalnew.pro/live/n-7/chunks.m3u8
+https://linecrystal.com/n-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 1
 https://hls.streambtw.com/live/stream_nba1.m3u8
