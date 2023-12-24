@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/ePquoeNxJ6vg8U7iSjRAZ2KdztX-170x255.jpg" group-title="Desember Upload",[2023] The Hunger Games: The Ballad of Songbirds & Snakes
+https://pixeldrain.com/api/file/K19sEThA
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/jLLtx3nTRSLGPAKl4RoIv1FbEBr-170x255.jpg" group-title="Desember Upload",[2023] The Family Plan
+https://pixeldrain.com/api/file/V4v46esA
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/3JZcArEpa9LbWuXhhpyi3xk654p-170x255.jpg" group-title="Desember Upload",[2023] Foursome
+https://pixeldrain.com/api/file/KGNBZFN5
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/ui4DrH1cKk2vkHshcUcGt2lKxCm-170x255.jpg" group-title="Desember Upload",[2023] Rebel Moon – Part One: A Child of Fire
+https://pixeldrain.com/api/file/gDzTiizJ
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-higop-2023-lk21-d21.jpg" group-title="Desember Upload",[2023] Higop
 https://pixeldrain.com/api/file/dtFar44e
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/12/dKEOoh66hKXPUirgL5FGmAIpxiY-170x255.jpg" group-title="Desember Upload",[2023] Air Mata di Ujung Sajadah
@@ -64,6 +72,8 @@ https://pixeldrain.com/api/file/GNxBuaeW
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/12/qwbcX5bVkH3e5jAiHzw116n2rFO-170x255.jpg" group-title="Desember Upload",[2023] Ganti-Ganti
 https://pixeldrain.com/api/file/XprVcFon
 
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/jLLtx3nTRSLGPAKl4RoIv1FbEBr-170x255.jpg" group-title="Action/Crime",[2023] The Family Plan
+https://pixeldrain.com/api/file/V4v46esA
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/11/7Bd4EUOqQDKZXA6Od5gkfzRNb0-170x255.jpg" group-title="Action/Crime",[2023] Freelance
 https://pixeldrain.com/api/file/AEV7oMTb
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/11/e7Jvsry47JJQruuezjU2X1Z6J77-170x255.jpg" group-title="Action/Crime",[2023] The Killer
@@ -470,6 +480,10 @@ https://pixeldrain.com/api/file/i4hFF9RF
 #EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2015/12/film-zodiac-2007.jpg" group-title="Horror/Thriller/Mistery",[2007] Zodiac
 https://pixeldrain.com/api/file/WEDyymTB
 
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/ui4DrH1cKk2vkHshcUcGt2lKxCm-170x255.jpg" group-title="Sci-Fi",[2023] Rebel Moon – Part One: A Child of Fire
+https://pixeldrain.com/api/file/gDzTiizJ
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/ePquoeNxJ6vg8U7iSjRAZ2KdztX-170x255.jpg" group-title="Sci-Fi",[2023] The Hunger Games: The Ballad of Songbirds & Snakes
+https://pixeldrain.com/api/file/K19sEThA
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/11/vBZ0qvaRxqEhZwl6LWmruJqWE8Z-170x255.jpg" group-title="Sci-Fi",[2023] The Creator
 #https://pixeldrain.com/api/file/hSvPDE6E
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/10/gPSnanVAnKgycgc3SJGcutXCe9A-170x255.jpg" group-title="Sci-Fi",[2023] Awareness
@@ -968,6 +982,8 @@ https://pixeldrain.com/api/file/5FGf3KKz
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/06/film-pulau-2023-lk21-d21.jpg" group-title="Malay",[2023] Pulau
 https://pixeldrain.com/api/file/FrJ8DxxJ
 
+#EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes/wp-content/uploads/2023/12/3JZcArEpa9LbWuXhhpyi3xk654p-170x255.jpg" group-title="Philipina",[2023] Foursome
+https://pixeldrain.com/api/file/KGNBZFN5
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-higop-2023-lk21-d21.jpg" group-title="Philipina",[2023] Higop
 https://pixeldrain.com/api/file/dtFar44e
 #EXTINF:-1 tvg-logo="https://tv.ngefilm21.homes//wp-content/uploads/2023/12/pGStVeylN4UbQClbpjOo69PXnBs-170x255.jpg" group-title="Philipina",[2023] Haslers
