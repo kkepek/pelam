@@ -341,35 +341,35 @@ https://headlinessportsfoot.com/chunklist/hlsch29.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 2",MOTO GP
-https://hls.streambtw.com/live/stream_moto.m3u8
+#https://hls.streambtw.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 2",MOTO GP
-https://sports.freesportstime.com/live/stream_moto.m3u8
+#https://sports.freesportstime.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 2",MOTO GP
-https://247ovo.com/motogp.m3u8
+#https://247ovo.com/motogp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhmf6FF/F1.png" group-title="LIVE EVENT 2",F1
-https://hls.streambtw.com/live/stream_f1.m3u8
+#https://hls.streambtw.com/live/stream_f1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhmf6FF/F1.png" group-title="LIVE EVENT 2",F1
-https://sportsleading.online/live/stream_f1.m3u8
+#https://sportsleading.online/live/stream_f1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhmf6FF/F1.png" group-title="LIVE EVENT 2",F1
-https://worknew.crystalnew.pro/live/f1/chunks.m3u8
+#https://worknew.crystalnew.pro/live/f1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://hls.streambtw.com/live/stream_box1.m3u8
+#https://hls.streambtw.com/live/stream_box1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://hls.streambtw.com/live/stream_box2.m3u8
+#https://hls.streambtw.com/live/stream_box2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://hls.streambtw.com/live/stream_box3.m3u8
+#https://hls.streambtw.com/live/stream_box3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://sports.freesportstime.com/live/stream_box1.m3u8
+#https://sports.freesportstime.com/live/stream_box1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://sports.freesportstime.com/live/stream_box2.m3u8
+#https://sports.freesportstime.com/live/stream_box2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",BOXING
-https://sports.freesportstime.com/live/stream_box3.m3u8
+#https://sports.freesportstime.com/live/stream_box3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",UFC
-https://hls.streambtw.com/live/stream_ufc.m3u8
+#https://hls.streambtw.com/live/stream_ufc.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",UFC
-https://cracksportz.lat/live/stream_ufc1.m3u8
+#https://cracksportz.lat/live/stream_ufc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",UFC
-https://sports.freesportstime.com/live/stream_ufc1.m3u8
+#https://sports.freesportstime.com/live/stream_ufc1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 5", Live 1
