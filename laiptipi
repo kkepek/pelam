@@ -82,7 +82,8 @@ https://ythls.repl.co/video/vj6lXUdzBTQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Live Lagu Malaysia LAWAS
 https://ythls.repl.co/video/WQKO3t1JhaA.m3u8
 
-
+#EXTINF:-1 tvg-logo"" group-title="TV Daerah",PonTV
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/2gc71SP/bandungtv.png" group-title="TV Daerah",Bandung TV 
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/6tD5pdD/banyumastv.png" group-title="TV Daerah",Banyumas TV 
@@ -139,6 +140,14 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI World
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Kalbar
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
