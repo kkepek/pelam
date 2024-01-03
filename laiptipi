@@ -145,6 +145,12 @@ https://o1.siar.us/dutatv/live/chunks.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Jakarta
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Ambon
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Bali
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Kalbar
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 
