@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBH8HW3/elshinta.png" group-title="Local",Elshinta TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBH8HW3/elshinta.png" group-title="Nasional",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vcdsyB9/nusantara.png" group-title="Local",Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vcdsyB9/nusantara.png" group-title="Nasional",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wLRpSnQ/inspiratv.png" group-title="Local",Inspira TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wLRpSnQ/inspiratv.png" group-title="Nasional",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0cJPmmj/garuda.png" group-title="Local",Garuda TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cJPmmj/garuda.png" group-title="Nasional",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5vBPY3/indonesiana.png" group-title="Local",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y5vBPY3/indonesiana.png" group-title="Nasional",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RX76W2/K.png" group-title="Movies",K+ ID
