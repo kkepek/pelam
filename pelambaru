@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/46sp1Z9b2PPTgCMyA87g9aTLUXi-170x255.jpg" group-title="Januari Upload",[2024] Lift
+https://pixeldrain.com/api/file/ajJxJuSA
+#EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/iqfjWpbawO2lB1pbjWlqMWE0coa-170x255.jpg" group-title="Januari Upload",[2023] Dr. Cheon and the Lost Talisman
+https://pixeldrain.com/api/file/uMcs6k5k
 #EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2023/10/dhIcT3nNSIF5CzOGkFwkq2DEwh1-170x255.jpg" group-title="Januari Upload",[2022] Gara Gara Warisan
 https://pixeldrain.com/api/file/XAysVDWN
 #EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/r8721AzEqr59kFtJBig4zd3bFJR-170x255.jpg" group-title="Januari Upload",[2024] Karinyo Brutal
@@ -18,6 +22,8 @@ https://pixeldrain.com/api/file/v7RfnKrb
 #EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/yAvhSlj1aciZALwtXNvaSoSwJL4-170x255.jpg" group-title="Januari Upload",[2023] Sosok Ketiga
 https://pixeldrain.com/api/file/jgMY12ci
 
+#EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/46sp1Z9b2PPTgCMyA87g9aTLUXi-170x255.jpg" group-title="Action/Crime",[2024] Lift
+https://pixeldrain.com/api/file/ajJxJuSA
 #EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2023/12/jLLtx3nTRSLGPAKl4RoIv1FbEBr-170x255.jpg" group-title="Action/Crime",[2023] The Family Plan
 https://pixeldrain.com/api/file/V4v46esA
 #EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2023/11/7Bd4EUOqQDKZXA6Od5gkfzRNb0-170x255.jpg" group-title="Action/Crime",[2023] Freelance
@@ -872,6 +878,8 @@ https://pixeldrain.com/api/file/ut4g4GdA
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2019/10/film-kingdom-kingudamu-2019-lk21.jpg" group-title="Japan",[2019] Kingdom
 https://pixeldrain.com/api/file/6unHMYX8
 
+#EXTINF:-1 tvg-logo="https://tv4.ngefilm21.homes/wp-content/uploads/2024/01/iqfjWpbawO2lB1pbjWlqMWE0coa-170x255.jpg" group-title="Koreà",[2023] Dr. Cheon and the Lost Talisman
+https://pixeldrain.com/api/file/uMcs6k5k
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-devils-2023-lk21-d21.jpg" group-title="Koreà",[2023] Devils
 https://pixeldrain.com/api/file/rWBPzMwy
 #EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2023/12/film-sleep-2023-lk21-d21.jpg" group-title="Koreà",[2023] Sleep
