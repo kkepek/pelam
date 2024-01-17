@@ -158,39 +158,39 @@ https://o1.siar.us/dutatv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-#https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest",Sukan RTM
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/640px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 Malaysia
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/640px-TV2_%28Malaysia%29_logo.svg.png",TV2 Malaysia
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_tiga
-#https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",TV6 Malaysia
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 group-title="Malaysia" tvg-id="8tv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/640px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV (TV8 Malaysia)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_lapan
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/640px-TV9_%28Malaysia%29_logo.svg.png",TV9 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_sembilan
-#https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://i.imgur.com/EF2iz96.png",Selangor TV
-#https://skyios.sky4k.top/S1G_010/playlist.m3u8
+https://skyios.sky4k.top/S1G_010/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-#https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-#https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
+https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", BEIN ASIAN CUP 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1422121&extension=ts
