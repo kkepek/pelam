@@ -26,6 +26,8 @@ http://210.210.155.37/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtVtbQn/dfc.png" group-title="Entertainment",Food Channel
 http://210.210.155.37/x6bnqe/s/s38/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Chines",CCTV 13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWcGvsV/mediacorpdrama.png" group-title="Singapore",Drama Mediacorp
 https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
