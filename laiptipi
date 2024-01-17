@@ -173,16 +173,14 @@ https://ktpremium.com:443/A1270/3388/912827
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV6 Malaysia
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
-#EXTINF:-1 group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",8TV (TV8 Malaysia)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_lapan
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV9 Malaysia
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://KawaguchiMaeda230810.b-cdn.net/api/deerem/clearkey.php?name=teve_sembilan
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-#EXTINF:-1 group-title="Malaysia" tvg-logo="",Selangor TV
-https://skyios.sky4k.top/S1G_010/playlist.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
+https://ktpremium.com:443/A1270/3388/912830
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
+https://ktpremium.com:443/A1270/3388/25813
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Malaysia",Awesome tv
+https://ktpremium.com:443/A1270/3388/25828
+#EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
+https://ktpremium.com:443/A1270/3388/26011
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",RTB Sukmaindera
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
