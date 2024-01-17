@@ -172,6 +172,8 @@ https://o1.siar.us/dutatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
 http://xtv.ooo:8080/77135/95649/352082
+#EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
+https://ktpremium.com:443/A1270/3388/26011
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
 http://xtv.ooo:8080/77135/95649/352083
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
@@ -183,37 +185,38 @@ http://xtv.ooo:8080/77135/95649/352086
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
 http://xtv.ooo:8080/77135/95649/352092
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Xiao Tai Yang
+http://xtv.ooo:8080/77135/95649/352093
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
+https://ktpremium.com:443/A1270/3388/25828
+#EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
+#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
+https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" tvg-logo="",RTB Sukmaindera
+#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
+https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="",Sukan RTM
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv1.my" tvg-logo="",TV1 Malaysia
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv1.my" tvg-logo="",TV 1
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv2.my" tvg-logo="",TV2 Malaysia
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv2.my" tvg-logo="",TV 2
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV3 Malaysia
+#EXTINF:-1 group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV 3
 https://ktpremium.com:443/A1270/3388/912827
-#EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV6 Malaysia
+#EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV 6
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
 https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
-https://ktpremium.com:443/A1270/3388/25828
-#EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
-https://ktpremium.com:443/A1270/3388/26011
-#EXTINF:-1 group-title="Malaysia" tvg-logo="",RTB Sukmaindera
-#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
-#EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
-#EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", BEIN ASIAN CUP 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1422121&extension=ts
