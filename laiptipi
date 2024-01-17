@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-logo="" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBH8HW3/elshinta.png" group-title="Nasional",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vcdsyB9/nusantara.png" group-title="Nasional",Nusantara TV
