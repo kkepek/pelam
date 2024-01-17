@@ -200,20 +200,24 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="",Sukan RTM
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv1.my" tvg-logo="",TV 1
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Ikim
+https://ktpremium.com:443/A1270/3388/656644
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Okey TV
+https://ktpremium.com:443/A1270/3388/25875
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv1.my" tvg-logo="",TV 1
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv2.my" tvg-logo="",TV 2
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv2.my" tvg-logo="",TV 2
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV 3
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV 3
 https://ktpremium.com:443/A1270/3388/912827
-#EXTINF:-1 group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV 6
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV 6
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
-#EXTINF:-1 group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
 https://ktpremium.com:443/A1270/3388/912830
-#EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
+#EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
 
