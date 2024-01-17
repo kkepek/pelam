@@ -57,30 +57,10 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",V2 Beats
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",24/7 A State of Trance Radio
-https://ythls.repl.co/video/5lMmnfVylEE.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Musica Klasik
-https://ythls.repl.co/video/ZONJYOxIhRY.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQ8bfXv/musica.png" group-title="Music",Lagu Indonesia Sepanjang Masa
-https://ythls.repl.co/video/-aX6PQ92ZLo.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tDyMg5F/nagaswara.png" group-title="Music",Hits Dangdut Koplo
-https://ythls.repl.co/video/Gvfr_OoTp1E.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Pop Indonesia
-https://ythls.repl.co/video/CNUedJo2ve0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",TOP 1000 MV DanceDhut
-https://ythls.repl.co/video/NYoNORroe3o.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RH2T7qM/noah.png" group-title="Music",NOAH
-https://ythls.repl.co/video/8Z_aaVwXYmY.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whS4Ws5/nuclear.png" group-title="Music",NUCLEAR BLAST RECORDS
-https://ythls.repl.co/video/lCjVa1c5zKw.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Kumpulan Lagu Islami Terbaik 2023
-https://ythls.repl.co/video/t4UyuAJjUho.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",THE K-POP : 24/7 Live
-https://ythls.repl.co/video/JVocS7Yftw8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Live Nonstop Dangdut Klasik pilihan Terpopuler
-https://ythls.repl.co/video/vj6lXUdzBTQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Live Lagu Malaysia LAWAS
-https://ythls.repl.co/video/WQKO3t1JhaA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",M20
+https://streamcdnh2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo"" group-title="TV Daerah",PonTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
