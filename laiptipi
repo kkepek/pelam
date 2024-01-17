@@ -155,8 +155,21 @@ https://o1.siar.us/dutatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Kalbar
 #http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/stream3/streamPlaylist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Arena
-http://xtv.ooo:8080/77135/95649/352081
+#http://xtv.ooo:8080/77135/95649/352081
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport
+#http://xtv.ooo:8080/77135/95649/352087
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 2
+#http://xtv.ooo:8080/77135/95649/352088
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 3
+#http://xtv.ooo:8080/77135/95649/352089
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 4
+#http://xtv.ooo:8080/77135/95649/352090
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 5
+#http://xtv.ooo:8080/77135/95649/352091
+
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
 http://xtv.ooo:8080/77135/95649/352082
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
@@ -167,16 +180,6 @@ http://xtv.ooo:8080/77135/95649/352084
 http://xtv.ooo:8080/77135/95649/352085
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
 http://xtv.ooo:8080/77135/95649/352086
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport
-http://xtv.ooo:8080/77135/95649/352087
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 2
-http://xtv.ooo:8080/77135/95649/352088
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 3
-http://xtv.ooo:8080/77135/95649/352089
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 4
-http://xtv.ooo:8080/77135/95649/352090
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 5
-http://xtv.ooo:8080/77135/95649/352091
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
 http://xtv.ooo:8080/77135/95649/352092
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Xiao Tai Yang
