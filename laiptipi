@@ -193,7 +193,7 @@ https://o1.siar.us/dutatv/live/chunks.m3u8
 #https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 
 #EXTINF:-1 group-logo="https://logowik.com/content/uploads/images/afc-asian-cup-qatar-20232763.logowik.com.webp",
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="🏆AFC PIALA ASIAN🏆", MediaCorp SG Event 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/pontianak/foto/bank/images/Logo-Piala-Asia-U23-2024.jpg" group-title="AFC Asian Cup 2023", MediaCorp SG Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
