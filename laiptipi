@@ -201,7 +201,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Malaysia",Awesome tv
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
 https://ktpremium.com:443/A1270/3388/25828
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
 https://ktpremium.com:443/A1270/3388/26011
