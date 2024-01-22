@@ -346,55 +346,53 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=587730&extension=
 #https://soccer.freesportstime.com/live/stream_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 1
-#https://hls.streambtw.com/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 2
-#https://hls.streambtw.com/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 3
-#https://hls.streambtw.com/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 4
-#https://hls.streambtw.com/live/stream_4.m3u8
+https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 5
-#https://hls.streambtw.com/live/stream_5.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 6
-#https://hls.streambtw.com/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 7
-#https://hls.streambtw.com/live/stream_7.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 8
-#https://hls.streambtw.com/live/stream_8.m3u8
+https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 9
-#https://hls.streambtw.com/live/stream_9.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 10
-#https://hls.streambtw.com/live/stream_10.m3u8
+https://hls.streambtw.com/live/stream_10.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 11
-#https://hls.streambtw.com/live/stream_11.m3u8
+https://hls.streambtw.com/live/stream_11.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 12
-#https://hls.streambtw.com/live/stream_12.m3u8
+https://hls.streambtw.com/live/stream_12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 13
-#https://hls.streambtw.com/live/stream_13.m3u8
+https://hls.streambtw.com/live/stream_13.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 14
-#https://hls.streambtw.com/live/stream_14.m3u8
+https://hls.streambtw.com/live/stream_14.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 15
-#https://hls.streambtw.com/live/stream_15.m3u8
+https://hls.streambtw.com/live/stream_15.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 11
-#https://hls.streambtw.com/live/stream_e1.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 12
-#https://hls.streambtw.com/live/stream_e2.m3u8
+https://hls.streambtw.com/live/stream_e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 13
-#https://hls.streambtw.com/live/stream_e3.m3u8
+https://hls.streambtw.com/live/stream_e3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 14
-#https://hls.streambtw.com/live/stream_e4.m3u8
+https://hls.streambtw.com/live/stream_e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 15
-#https://hls.streambtw.com/live/stream_e5.m3u8
+https://hls.streambtw.com/live/stream_e5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 16
-#https://hls.streambtw.com/live/stream_e6.m3u8
+https://hls.streambtw.com/live/stream_e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 17
-#https://hls.streambtw.com/live/stream_e7.m3u8
+https://hls.streambtw.com/live/stream_e7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 18
-#https://hls.streambtw.com/live/stream_e8.m3u8
+https://hls.streambtw.com/live/stream_e8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 19
-#https://hls.streambtw.com/live/stream_e8.m3u8
-
-
+https://hls.streambtw.com/live/stream_e8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 1", Live 1
 https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
