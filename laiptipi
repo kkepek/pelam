@@ -289,10 +289,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=587732&extension=
 http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=587731&extension=ts&play_token=SNLYkRrAEl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", AZAM SPORT 3 AF
 http://king4k.tv:80/play/live.php?mac=00:1A:79:51:EA:49&stream=587730&extension=ts&play_token=SNLYkRrAEl
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023",LIVE 1
-https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023",LIVE 2
-https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 1",LIVE 
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
