@@ -42,6 +42,19 @@ https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1063281032.m3u8
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png", USEE SPORT1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png", USEE SPORT2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWcGvsV/mediacorpdrama.png" group-title="Singapore",Drama Mediacorp
 https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
 
