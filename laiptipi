@@ -29,7 +29,6 @@ http://210.210.155.37/x6bnqe/s/s38/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWcGvsV/mediacorpdrama.png" group-title="Singapore",Drama Mediacorp
 https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/311GbXm/learning-knwol.png" group-title="Education",Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBML9qf/nasa.png" group-title="Education",NASA TV Public
@@ -210,7 +209,10 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", Live
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", Live
+https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", BEIN ASIAN CUP 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:40:B2:BB&stream=1422121&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="AFC Asian Cup 2023", BEIN ASIAN CUP 2
