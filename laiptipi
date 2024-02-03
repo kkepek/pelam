@@ -209,6 +209,27 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 1
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606222&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 2
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606221&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 3
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606219&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 4
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606218&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 5
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606217&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 6
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606216&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 7
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606215&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 8
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606214&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 9
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606213&extension=ts&play_token=9Tkwk6UcYs
+#EXTINF:-1 tvg-logo="https://images.bisnis.com/posts/2022/02/08/1497785/vidio1.jpg" group-title="Vidio Live Event", LIVE 10
+http://king4k.tv/play/live.php?mac=00:1A:79:51:EA:49&stream=606212&extension=ts&play_token=9Tkwk6UcYs
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 1",Live 1
 #https://soccer.freesportstime.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 1",Live 2
