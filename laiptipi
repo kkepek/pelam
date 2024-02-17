@@ -369,6 +369,39 @@ https://hls.streambtw.com/live/stream_e8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 2",Live 19
 https://hls.streambtw.com/live/stream_e8.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 1
+https://freehdgames.lol/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 2
+https://freehdgames.lol/chunklist/hlsch2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 3
+https://freehdgames.lol/chunklist/hlsch3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 4
+https://freehdgames.lol/chunklist/hlsch4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 5
+https://freehdgames.lol/chunklist/hlsch5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 6
+https://freehdgames.lol/chunklist/hlsch6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 7
+https://freehdgames.lol/chunklist/hlsch7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 8
+https://freehdgames.lol/chunklist/hlsch8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 9
+https://freehdgames.lol/chunklist/hlsch9.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 10
+https://freehdgames.lol/chunklist/hlsch10.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 11
+https://freehdgames.lol/chunklist/hlsch11.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 12
+https://freehdgames.lol/chunklist/hlsch12.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 13
+https://freehdgames.lol/chunklist/hlsch13.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 14
+https://freehdgames.lol/chunklist/hlsch14.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 15
+https://freehdgames.lol/chunklist/hlsch15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 3",Live 16
+https://freehdgames.lol/chunklist/hlsch16.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 3",MOTO GP
 #https://hls.streambtw.com/live/stream_moto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/StSXXkF/motogp.png" group-title="LIVE EVENT 3",MOTO GP
