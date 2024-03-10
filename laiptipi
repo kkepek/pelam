@@ -231,6 +231,30 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT PREMIER LEAGUE UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 1 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 2 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 3 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 4 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 5 AF
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT 1 DE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=58291_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 1 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 2 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97135_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 3 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 4 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 5 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 6 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
 
 
 
