@@ -255,6 +255,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 6 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 1 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 2 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 3 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 4 PL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
+
 
 
 
