@@ -377,48 +377,48 @@ https://hls.streambtw.com/live/stream_e8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 1
-https://hls.streambtw.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 2
-https://hls.streambtw.com/live/stream_nba2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 3
-https://hls.streambtw.com/live/stream_nba3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 4
-https://hls.streambtw.com/live/stream_nba4.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 5
-https://hls.streambtw.com/live/stream_nba5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 6
-https://hls.streambtw.com/live/stream_nba6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 7
-https://hls.streambtw.com/live/stream_nba7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 8
-https://hls.streambtw.com/live/stream_nba8.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 9
-https://sports.freesportstime.com/live/stream_nba1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 10
 https://sportsleading.online/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 2
+https://sportsleading.online/live/stream_nba2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 3
+https://sportsleading.online/live/stream_nba3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 4
+https://sportsleading.online/live/stream_nba4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 5
+https://sportsleading.online/live/stream_nba5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 6
+hhttps://sportsleading.online/live/stream_nba6.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 7
+https://sportsleading.online/live/stream_nba7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 8
+https://sportsleading.online/live/stream_nba8.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 9
+https://sportsleading.online/live/stream_nba1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 10
+https://sportsleading.online/live/stream_nba10.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 11
-https://sports.freesportstime.com/live/stream_nba1.m3u8
+#https://sports.freesportstime.com/live/stream_nba1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 12
-https://sports.freesportstime.com/live/stream_nba2.m3u8
+#https://sports.freesportstime.com/live/stream_nba2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 13
-https://sports.freesportstime.com/live/stream_nba3.m3u8
+#https://sports.freesportstime.com/live/stream_nba3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 14
-https://sports.freesportstime.com/live/stream_nba4.m3u8
+#https://sports.freesportstime.com/live/stream_nba4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 15
-https://sports.freesportstime.com/live/stream_nba5.m3u8
+#https://sports.freesportstime.com/live/stream_nba5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 16
-https://sports.freesportstime.com/live/stream_nba6.m3u8
+#https://sports.freesportstime.com/live/stream_nba6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 17
-https://sports.freesportstime.com/live/stream_nba7.m3u8
+#https://sports.freesportstime.com/live/stream_nba7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 18
-https://sports.freesportstime.com/live/stream_nba8.m3u8
+#https://sports.freesportstime.com/live/stream_nba8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 19
-https://sports.freesportstime.com/live/stream_nba9.m3u8
+#https://sports.freesportstime.com/live/stream_nba9.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 20
-https://sports.freesportstime.com/live/stream_nba10.m3u8
+#https://sports.freesportstime.com/live/stream_nba10.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 21
-https://sports.freesportstime.com/live/stream_nba11.m3u8
+#https://sports.freesportstime.com/live/stream_nba11.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 22
-https://sports.freesportstime.com/live/stream_nba12.m3u8
+#https://sports.freesportstime.com/live/stream_nba12.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rdprJY1/nba.png" group-title="NBA",LIVE 23
-https://sports.freesportstime.com/live/stream_nba13.m3u8
+#https://sports.freesportstime.com/live/stream_nba13.m3u8
