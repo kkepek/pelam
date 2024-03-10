@@ -263,6 +263,14 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 4 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 1 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56652_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 2 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56658_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 3 IT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56661_&extension=ts
 
 
 
