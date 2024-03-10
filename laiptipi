@@ -209,6 +209,14 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 1 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97146_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97148_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97150_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97145_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="FREESPORT",TNT Sports 1
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
 #EXTINF:-1 tvg-logo="" group-title="FREESPORT",TNT Sports 2
@@ -273,7 +281,32 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56658_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56661_&extension=ts
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 1 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192754_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 2 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192753_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 3 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192752_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 4 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192751_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 5 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192750_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 6 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192749_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 7 AR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192748_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 2 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 3 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 4 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 5 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="FREESPORT BEIN", BEIN SPORT 6 MAX FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="LIVE EVENT 1",Live 1
 #https://sportsleading.online/live/stream_1.m3u8
