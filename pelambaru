@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/bnOz6hfBTOIDYyrj8P3Pcj4uVzE-170x255.jpg" group-title="Maret Upload",[2024] Kalikot
+https://pixeldrain.com/api/file/cbvL47uZ
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/d1GQEVwPJRAKRLiSfQelF5p6C8A-170x255.jpg" group-title="Maret Upload",[2024] Mapanukso
+https://pixeldrain.com/api/file/zCFa35PQ
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/8GlBl00JOIywYNkoeRc0Fnzwr8O-170x255.jpg" group-title="Maret Upload",[2023] Kultus Iblis
+https://pixeldrain.com/api/file/JZVvxYDB
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/sMp34cNKjIb18UBOCoAv4DpCxwY-170x255.jpg" group-title="Maret Upload",[2024] Damsel
+https://pixeldrain.com/api/file/tt9Q4Pwx
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/1whriJjmbFWVFkO3aVZ3hcJQ5g7-170x255.jpg" group-title="Maret Upload",[2023] Petualangan Sherina 2
 https://pixeldrain.com/api/file/8QqjgT4y
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/5hnFFOWEchErNVr0wMLWFEob3q1-170x255.jpg" group-title="Maret Upload",[2024] Spaceman
@@ -327,6 +335,8 @@ https://pixeldrain.com/api/file/PdVCiQgq
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2023/06/lyQBXzOQSuE59IsHyhrp0qIiPAz-170x255.jpg" group-title="Drama/Family",[1994] The Shawshank Redemption
 https://pixeldrain.com/api/file/5uZYTpqX
 
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/sMp34cNKjIb18UBOCoAv4DpCxwY-170x255.jpg" group-title="Sci-Fi/Fantasy",[2024] Damsel
+https://pixeldrain.com/api/file/tt9Q4Pwx
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/5hnFFOWEchErNVr0wMLWFEob3q1-170x255.jpg" group-title="Sci-Fi/Fantasy",[2024] Spaceman
 https://pixeldrain.com/api/file/2Xvj4Cvc
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2023/12/ui4DrH1cKk2vkHshcUcGt2lKxCm-170x255.jpg" group-title="Sci-Fi/Fantasy",[2023] Rebel Moon – Part One: A Child of Fire
@@ -496,7 +506,7 @@ https://pixeldrain.com/api/file/GQFFMsu9
 https://pixeldrain.com/api/file/yw4H82hM
 
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/01/7lTnXOy0iNtBAdRP3TZvaKJ77F6-170x255.jpg" group-title="Super Hero",[2023] Aquaman and the Lost Kingdom
-https://pixeldrain.com/api/file/8eavtxpe
+https://pixeldrain.com/api/file/DXSddYVx
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/01/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ-170x255.jpg" group-title="Super Hero",[2023] The Marvels
 https://pixeldrain.com/api/file/9tWUvSb6
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg" group-title="Super Hero",[2023] The Flash
@@ -812,6 +822,8 @@ https://pixeldrain.com/api/file/Go9yV3zq
 
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/02/3b2X0orkRYheWWZPUy02zaBDwTW-170x255.jpg" group-title="Indonesia",[2024] Ritual Tumbal Terakhir
 https://pixeldrain.com/api/file/VedFCedn
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/8GlBl00JOIywYNkoeRc0Fnzwr8O-170x255.jpg" group-title="Indonesia",[2023] Kultus Iblis
+https://pixeldrain.com/api/file/JZVvxYDB
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/1whriJjmbFWVFkO3aVZ3hcJQ5g7-170x255.jpg" group-title="Indonesia",[2023] Petualangan Sherina 2
 https://pixeldrain.com/api/file/8QqjgT4y
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/02/rVBVNA6iV6DeyFSemECX9kNNEQs-170x255.jpg" group-title="Indonesia",[2023] Susuk: Kutukan Kecantikan
@@ -1000,6 +1012,10 @@ https://pixeldrain.com/api/file/5FGf3KKz
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2023/06/film-pulau-2023-lk21-d21.jpg" group-title="Malay",[2023] Pulau
 https://pixeldrain.com/api/file/FrJ8DxxJ
 
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/bnOz6hfBTOIDYyrj8P3Pcj4uVzE-170x255.jpg" group-title="Philipina",[2024] Kalikot
+https://pixeldrain.com/api/file/
+#EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/03/d1GQEVwPJRAKRLiSfQelF5p6C8A-170x255.jpg" group-title="Philipina",[2024] Mapanukso
+https://pixeldrain.com/api/file/zCFa35PQ
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/02/s58sRbuoAojLFDZW8tUaTzpv7aB-170x255.jpg" group-title="Philipina",[2024] Kapalit
 https://pixeldrain.com/api/file/CtJwPYdZ
 #EXTINF:-1 tvg-logo="https://nf.ng3film21.lol/wp-content/uploads/2024/02/uyde7bBL7rr5SqgaefhFInyASlq-170x255.jpg" group-title="Philipina",[2024] Eks
