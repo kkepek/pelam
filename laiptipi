@@ -209,87 +209,67 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 1 
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97146_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97148_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 3
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97150_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", TNT BT SPORT 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97145_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",TNT Sports 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20821
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",TNT Sports 2
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20820
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",TNT Sports 3
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20819
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",SKY SPORTS MAIN EVENT
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20832
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",SKY SPORTS PREM LEAG
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20831
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT",USA NETWORK HD (US)
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 1 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhn62xS/rmc.png" group-title="VIP Sports", RMC SPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 2 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhn62xS/rmc.png" group-title="VIP Sports", RMC SPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT FOOTBALL IT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT FOOTBALL IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT FOOTBALL UK
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT FOOTBALL UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT PREMIER LEAGUE UK
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT PREMIER LEAGUE UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 1 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PYnW1hm/Canal-Sport1.png" group-title="VIP Sports", CANAL+ 1 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 2 AF
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 2 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 3 AF
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 3 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 4 AF
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 4 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", CANAL+ 5 AF
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 5 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT 1 DE
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT 1 DE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=58291_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 1 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 1 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 2 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 2 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97135_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 3 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 3 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 4 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 4 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 5 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 5 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SPORT TV 6 PT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT TV 6 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 1 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", ELEVEN SPORT 1 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 2 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", ELEVEN SPORT 2 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 3 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", ELEVEN SPORT 3 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", ELEVEN SPORT 4 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", ELEVEN SPORT 4 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO IT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 1 IT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 1 IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56652_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 2 IT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 2 IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56658_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", SKY SPORT CALCIO 3 IT
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 3 IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56661_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 2 HD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT 2 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59058
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 1 FHD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT 1 FHD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/2809
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 2 FHD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT 2 FHD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/2811 
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 3 HD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT 3 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/2813
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT 4 HD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT 4 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/2815
-#EXTINF:-1 tvg-logo="" group-title="FREESPORT", RMC SPORT LIVE 5 HD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", RMC SPORT LIVE 5 HD
 http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/58388
 
 
