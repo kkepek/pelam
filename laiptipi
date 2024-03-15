@@ -209,9 +209,9 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 https://ktpremium.com:443/A1270/3388/25813
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhn62xS/rmc.png" group-title="VIP Sports", RMC SPORT 1 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvqtMKf/rmcsport1.png" group-title="VIP Sports", RMC SPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhn62xS/rmc.png" group-title="VIP Sports", RMC SPORT 2 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC SPORT 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT FOOTBALL IT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extension=ts
