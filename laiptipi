@@ -219,15 +219,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT PREMIER LEAGUE UK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PYnW1hm/Canal-Sport1.png" group-title="VIP Sports", CANAL+ 1 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gj0RPDJ/Canal-Sport1.png" group-title="VIP Sports", CANAL+ 1 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vHNzvr/Canal-Sport2.png" group-title="VIP Sports", CANAL+ 2 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pr4Wwct/Canal-Sport2.png" group-title="VIP Sports", CANAL+ 2 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 3 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CsCqL4z/Canal-Sport3.png" group-title="VIP Sports", CANAL+ 3 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 4 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdhNzTK/Canal-Sport4.png" group-title="VIP Sports", CANAL+ 4 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", CANAL+ 5 AF
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JrtFHDz/Canal-Sport5.png" group-title="VIP Sports", CANAL+ 5 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", SPORT 1 DE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=58291_&extension=ts
