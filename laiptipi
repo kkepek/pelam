@@ -237,6 +237,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extensi
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrtFHDz/Canal-Sport5.png" group-title="VIP Sports",CANAL+ 5 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP Sports",Arena Sport 1 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213637&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP Sports",Arena Sport 2 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213638&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP Sports",Arena Sport 3 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213639&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP Sports",Arena Sport 4 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213640&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP Sports",Arena Sport 5 HR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213641&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvqtMKf/rmcsport1.png" group-title="VIP Sports", RMC SPORT 1 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC SPORT 2 FR
