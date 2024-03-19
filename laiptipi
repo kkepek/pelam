@@ -229,6 +229,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN62FDx/skyepl.png" group-title="VIP Sports",Sky Sport EPL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sky Sport Calcio
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gj0RPDJ/Canal-Sport1.png" group-title="VIP Sports",Canal+ 1 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pr4Wwct/Canal-Sport2.png" group-title="VIP Sports",Canal+ 2 AF
@@ -255,20 +257,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",ELEVEN SPORT 1 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports"Eleven Sport 2 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 2 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports"Eleven Sport 3 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 3 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports"Eleven Sport 4 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 4 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO IT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 1 IT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56652_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 2 IT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56658_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", SKY SPORT CALCIO 3 IT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56661_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308126&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 2 NL
@@ -277,6 +271,19 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308127&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308128&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 4 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308129&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1", Vamos Movistar+ ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55528&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ La Liga ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55531&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ La Liga ES HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55530&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ Liga De Campeones ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55533&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",M+ Deportes ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55545&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",M+ Golf ES
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55548&extension=ts
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS"BeiN Sport 1 AR
