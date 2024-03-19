@@ -255,7 +255,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213641&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC Sport 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",ELEVEN SPORT 1 PL
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 1 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 2 PL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
@@ -271,17 +271,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308127&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308128&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 4 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308129&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1", Vamos Movistar+ ES
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports", Vamos Movistar+ ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55528&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ La Liga ES
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ La Liga ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55531&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ La Liga ES HD
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ La Liga ES HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55530&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",Movistar+ Liga De Campeones ES
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ Liga De Campeones ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55533&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",M+ Deportes ES
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",M+ Deportes ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55545&extension=ts
-#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1",M+ Golf ES
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",M+ Golf ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=55548&extension=ts
 
 
