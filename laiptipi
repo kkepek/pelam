@@ -255,14 +255,18 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=213641&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC Sport 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 1 PL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97264_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 2 PL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97265_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 3 PL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97266_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 4 PL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97267_&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 1 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461186&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 2 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461188&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 3 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461190&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 4 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461192&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 5 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461194&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 6 PT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=461196&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=308126&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 2 NL
