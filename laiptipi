@@ -12,7 +12,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cJPmmj/garuda.png" group-title="Nasional",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y5vBPY3/indonesiana.png" group-title="Nasional",Indonesiana TV
-https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RX76W2/K.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
@@ -20,14 +20,14 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v1X1wfz/life-style.png" group-title="Entertainment",Lifestyle
-http://210.210.155.37/x6bnqe/s/s65/S4/mnf.m3u8
+#http://210.210.155.37/x6bnqe/s/s65/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR85zPN/showbiz.png" group-title="Entertainment",Showbiz
-http://210.210.155.37/x6bnqe/s/s35/S4/mnf.m3u8
+#http://210.210.155.37/x6bnqe/s/s35/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtVtbQn/dfc.png" group-title="Entertainment",Food Channel
-http://210.210.155.37/x6bnqe/s/s38/S4/mnf.m3u8
+#http://210.210.155.37/x6bnqe/s/s38/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWcGvsV/mediacorpdrama.png" group-title="Singapore",Drama Mediacorp
-https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
+#https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/311GbXm/learning-knwol.png" group-title="Education",Learning & Knowledge
 http://210.210.155.37/x6bnqe/s/s36/S4/mnf.m3u8
@@ -50,13 +50,13 @@ https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brn6s0s/xplore.png" group-title="Education",XPLORE
 https://xplore-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QC21VD3/insighttv.png" group-title="Education", INSIGHT
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WzFMchj/introuble.png" group-title="Education", INTROUBLE
-https://introuble-samsungau.amagi.tv/playlist.m3u8
+#https://introuble-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrwH4WZ/inwild.png" group-title="Education", INWILD
-https://inwild-samsungau.amagi.tv/playlist.m3u8
+#https://inwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kXzkCzP/inwonder.png" group-title="Education", INWONDER
-https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+#https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",V2 Beats
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
@@ -129,35 +129,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://o1.siar.us/dutatv/live/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI World
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Nasional
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Jakarta
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Ambon
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Bali
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TVRI Grup",TVRI Kalbar
-#http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/stream3/streamPlaylist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Arena
-#http://xtv.ooo:8080/77135/95649/352081
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport
-#http://xtv.ooo:8080/77135/95649/352087
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 2
-#http://xtv.ooo:8080/77135/95649/352088
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 3
-#http://xtv.ooo:8080/77135/95649/352089
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 4
-#http://xtv.ooo:8080/77135/95649/352090
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro SuperSport 5
-#http://xtv.ooo:8080/77135/95649/352091
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
 http://xtv.ooo:8080/77135/95649/352082
