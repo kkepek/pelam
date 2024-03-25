@@ -30,15 +30,15 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rtVtbQn/dfc.png" group-title="Entertainment",Food Channel
 #http://210.210.155.37/x6bnqe/s/s38/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",SBS Sports   
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bXCSL5/sbssports.png" group-title="Sports",SBS Sports   
 http://176868.cloud/0110e370b9649038212e4ab507486e2a/343cef9d126e1a2327fd4842328b89f3/4aedb74052b45637fee91842fd47f2c0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SBS Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Sports",SBS Sports (Alternative)
 http://176868.cloud/6c2b496ffc842f6f90f0d7d08839a5cf/343cef9d126e1a2327fd4842328b89f3/304e77d23bff65dd7de30ab3816c88e8/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", KBS SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bJ1Wy9y/KBSsports.png" group-title="Sports", KBS SPORT
 http://176868.cloud/238309b625bc4938557052426b76d931/343cef9d126e1a2327fd4842328b89f3/6a82114ce7174e8d7edc97ef1e740731/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", TVN SPORT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7XwXLh/tvnsports.png" group-title="Sports", TVN SPORT
 http://176868.cloud/7c30585584f1b00c8c04f6fa06c58074/343cef9d126e1a2327fd4842328b89f3/b0bb263e899a8bddc94b6f841d2d1642/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", MBC SPORT+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FXgLLjT/MBCSport.png" group-title="Sports", MBC SPORT+
 http://176868.cloud/c9a4c033b8884dfaf9d41664666d2a0b/343cef9d126e1a2327fd4842328b89f3/bf54520ec53d9041546277bdd68fa813/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FWcGvsV/mediacorpdrama.png" group-title="Singapore",Drama Mediacorp
