@@ -11,6 +11,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJ6wQdJ/indonesiana.png" group-title="Nasional",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn3GWhv/lingkartv.png" group-title="Nasional",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2599FP0/k.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
@@ -111,8 +113,6 @@ https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CswFgmSjJTko7QDRMIukjY0Su19
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="TV Daerah",RCTV 
 https://v5.siar.us/rctv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="TV Daerah",Riau TV 
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jzyYKKm/sangaji.png" group-title="TV Daerah",Sangaji TV 
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vffLxB/semarangtv.png" group-title="TV Daerah",Semarang TV 
@@ -123,8 +123,6 @@ http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 http://wms.klikhost.com/tegarjogja/tegarjogja/chunklist_w582212461.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7C6K7nL/arektv.png" group-title="TV Daerah",Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mn3GWhv/lingkartv.png" group-title="TV Daerah",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
 https://v2.siar.us/dutatv/live/chunks.m3u8
 
