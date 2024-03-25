@@ -16,6 +16,10 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RX76W2/K.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",&Flix
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",&Prive
+http://89.187.177.137:8081/&PRIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -71,6 +75,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
+lay.png" group-title="TV Daerah",Sampit TV 
 #EXTINF:-1 tvg-logo"" group-title="TV Daerah",PonTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/2gc71SP/bandungtv.png" group-title="TV Daerah",Bandung TV 
@@ -95,8 +100,6 @@ https://v6.siar.us/madutv/hd720/chunks.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCy9gQJ/pujatv.png" group-title="TV Daerah",Puja TV Aceh 
 https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drPFbpv/pontv.png" group-title="TV Daerah",PonTV 
-https://pontv.siar.us/pontv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="TV Daerah",Sampit TV 
 https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvrGn4j/ugtv.png" group-title="TV Daerah",UGTV 
