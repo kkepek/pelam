@@ -78,14 +78,14 @@ http://210.210.155.35:80/uq2663/h/h229/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phPxL8G/mtv90.png" group-title="Music",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
-lay.png" group-title="TV Daerah",Sampit TV 
-#EXTINF:-1 tvg-logo"" group-title="TV Daerah",PonTV
+ 
+#EXTINF:-1 tvg-logo"https://i.ibb.co/0mkx2ZN/pontv.png" group-title="TV Daerah",PonTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo"https://i.ibb.co/2gc71SP/bandungtv.png" group-title="TV Daerah",Bandung TV 
+#EXTINF:-1 tvg-logo"https://i.ibb.co/SBmBqWx/Bandung-TV.png" group-title="TV Daerah",Bandung TV 
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-logo"https://i.ibb.co/6tD5pdD/banyumastv.png" group-title="TV Daerah",Banyumas TV 
+#EXTINF:-1 tvg-logo"https://i.ibb.co/4gsthg1/banyumas-TV.png" group-title="TV Daerah",Banyumas TV 
 https://v2.siar.us/bmstv/livestream/chunks.m3u8
-#EXTINF:-1 tvg-logo"https://i.ibb.co/QrGnvN8/batamtv.png" group-title="TV Daerah",Batam TV 
+#EXTINF:-1 tvg-logo"https://i.ibb.co/t89cCtT/batamtv.png" group-title="TV Daerah",Batam TV 
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/fXXQ8tz/batutv.png" group-title="TV Daerah",Batu TV 
 http://117.103.69.219:8080/live/streaming/index.m3u8
