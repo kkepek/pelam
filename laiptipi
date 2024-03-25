@@ -20,6 +20,8 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",&Prive
 http://89.187.177.137:8081/&PRIVE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema Europe
+http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -45,7 +47,7 @@ http://176868.cloud/c9a4c033b8884dfaf9d41664666d2a0b/343cef9d126e1a2327fd4842328
 #https://ythls.repl.co/video/LpSeeRFGa0I.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/311GbXm/learning-knwol.png" group-title="Education",Learning & Knowledge
-http://210.210.155.37/x6bnqe/s/s36/S4/mnf.m3u8
+http://210.210.155.37/uq2663/h/h236/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBML9qf/nasa.png" group-title="Education",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBML9qf/nasa.png" group-title="Education",NASA TV Media
@@ -62,16 +64,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNBzsmz/wired2fish.png" group-title="Education",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Brn6s0s/xplore.png" group-title="Education",XPLORE
-https://xplore-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QC21VD3/insighttv.png" group-title="Education", INSIGHT
-#https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WzFMchj/introuble.png" group-title="Education", INTROUBLE
-#https://introuble-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrwH4WZ/inwild.png" group-title="Education", INWILD
-#https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kXzkCzP/inwonder.png" group-title="Education", INWONDER
-#https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",V2 Beats
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
