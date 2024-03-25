@@ -89,8 +89,6 @@ https://v2.siar.us/bmstv/livestream/chunks.m3u8
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/fXXQ8tz/batutv.png" group-title="TV Daerah",Batu TV 
 http://117.103.69.219:8080/live/streaming/index.m3u8
-#EXTINF:-1 tvg-logo"" group-title="TV Daerah",Bayu TV Nganjuk 
-https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/chunklist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/cFbqvsB/bungotv.png" group-title="TV Daerah",Bungo TV 
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo"https://i.ibb.co/DbkGCSC/jambitv.png" group-title="TV Daerah",Jambi TV 
@@ -103,18 +101,12 @@ https://v6.siar.us/madutv/hd720/chunks.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tCy9gQJ/pujatv.png" group-title="TV Daerah",Puja TV Aceh 
 https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="TV Daerah",Sampit TV 
-https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gvrGn4j/ugtv.png" group-title="TV Daerah",UGTV 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_mid.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="TV Daerah",Padang TV 
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PalembangTV.id" tvg-logo="https://i.imgur.com/e2F1zyU.png" group-title="TV Daerah",Pal TV 
-https://v3.siar.us/paltv/live/playlist.m3u8
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CtMFqh_RnO8DUUN6uOaMhhMxA7AwZRgsV7HinjInCSgWqZUed_I9o44_2aA-3VdVwGrsxyqLmh7wfbAcS1S1qGZXpkC1IGoVz_icsp0HZVMvs5ONEAwmcDn8_Ai5UtQEhqy0TyoB9E3wzAAx4rRKcVzglqFPOgDlroa78lfqyL08_6Ay-imDEIiGnr6gnKCPHOTTR87pIdBPyCFbpd4a2tFbn4HjX8rRzWf4KTBZ24-g-zJB9yYEdgjEt6uaR-uSpBdb90MYbmoKOnG4J_qXOlnBYWGILN35PAVk1wqeAuqgWdQbfSTx7qR0X3GgmCimVStFY872t_hHSkRJVCRxDTfqBggetoRcOrz0Yahh1hOO2nilCLrFYQrY-O6rorNmml45CGCcaMuCetYelrddpF39aNMoYXx2FFBtt9ZgPWaGlAi9Jt7LbJL4BWoI7wmfNp78HpIEWBH8k7qp3ON8pEs4q48I-Dq1cMg64ewUNG-gL6LrLMWkrNUXVyL5krGpliMIg_IsI-DKa-6ZgEwdWPPRh4MFbbbaYAkhCBiQdLIB-zWYCANHKXT0kpDE9FHebXoBOTUEJl9idqccikYLSrcLS9D9Rv2TpYhIj3ZP3ZZuxTpjSmkjGc-o94r0jS7ITQgOIqvymSNiIdwnz8F0KTzxVoFVxBSkz6iC4sPWoSdtdO_1kNUup_F665aQN0cchMsGwWuDydusWUK6KJqJ7CSjqydrAZK43CDRseNb5_sU78uv6f-ox1qU3ydel8lGUhsz4H8AQ8fzUUhyHsPjzb3ssc0oLmCb9Ohr4IbhF5EPJr_1P-6RlVVD15UZVGB_j2-SHg4XJq_mZdROKZ2oaXL6HOzNdGqAaI8Ms-n-hqN5RsAYWvxg1m5dfWfJXsVIrTuI_Cr-lT6p1cgS36HJrs7tI7UWYh1fGOJy1pbfYaEgG6l5MQTrkCPctKpE_ocsKb4F81fJGgyTueqWU0eTyEvyKh4gASoJdXMtd2VzdC0yMIMJ.m3u8
 #EXTINF:-1 tvg-id="PijarTV.id" tvg-logo="https://i.imgur.com/6rYTI41.png" group-title="TV Daerah",Pijar TV 
-https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CroFys2-l_Ysivk4_cmR4Qo5VcCA-Xg6fiONj1Hk-L6s8p00qtHviVr48OLpAwM5yVCCFYgKx73bnmC5UOI4NXiyipwMVx0xGrtfBbLAH5wHwFO_P_S4AVTg6uDWv3dngTUNezhYPmq9IWU8Nfx3jOXgCC3lb2peoJuHJa6leOOW27UFp3P1KJS98gIn7nq1waelJtPZdZwexqGwH16QWgv4ufypZ_Qo2PaYSSOMg1lTw0o9jwl0VVisOBEe6ZsAAZ7mmBQPgeOri42TYOLw7_QMfkCY-7KFTqpySZkhNp6_9fEilfDKIZt5trR1bFMOY565DAtz5ao-NoTNRShu3QjRWar7EclZGcXu8QQSGjdeJMwnIJ0X6mjeG-IyRVY6VcUaRdQ47b_q6_DdAZGmVif0bTigdDbNfsfHTwZUW17GKkgUav2oz-jwPdXwD8-NX1C4utDMYpN_FYc30KeFzCJU8AYTYx7xj2GwcRgjBrWvxnSn5QFa87DcM_hcnC6oADT5M1TnNddT3JoTCd_QlHBWYZVTCVRnu2HPHV04bJ8vLj5qlTgAfhTnDJYeLMQXjSmxy7qLphrrdOZOkCAOzH2E4TAY9Py6Jzk2YR9QAmGlxVM3IOX9YDP8wzjIT-3MaAkF8Lj454nRMOfrCJHXQh22tPUf5HgEOq4kk5PTUr8lOmn0hH2QadrckoQB0VX6d8jMuvwjhMO8jllQEGYdWi-zacedQq2CKPa5cHdrN8YBYfY1s_PilUV4uxBB5_HHqkkIMK3UX4ozxcX7KHHsRbJIs140XiCj5_2IkifjS6g29E0Nzo2hDnjSDP29LYeI7tZ0854E8tTXGDrITVOQHxU6TeeMQkVJ5g_yl4urZozkirr-iTh5afIqMQ0F2CmSM4SlYIh02koyrx8NvxgymeOwtcMbCQNsRUQS3KUaDNfkZjmf4SqKb931GyABKgl1cy13ZXN0LTIw0QY.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-logo="https://i.imgur.com/qyqa1eA.png" group-title="TV Daerah",Radar TV Lampung 
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CswFgmSjJTko7QDRMIukjY0Su19VooFD2esspKAj54MwcanIWKY8JJjXnklPejJR8ZPwO_SvmrAnPgiL4P6pZFXqsQZsXJ-3IdMQvq537sB4d7FmtI3MTg1aPmgrRthxODQDvv-dv5TwQLYnNXal9V6MP6teV6HqelXJrSIteHdIV20wFh1JyI2YGL53vmQ-ZhSJCcQOdin3ONeIA4YsSlI5Op_okV_BY7NxlGS8LY5qpK_jlExh2bKHc_mq15MzpbW4RpeNoQLK4o2J5gJj9BAHuEwrMta5qME5GE1WwvdasaALH0jY_hB6abdhNgABz3mGJO9sLtW5xpWvVcsJ8UJbo9diWQWqHKBz15hsn9LivWLvTR-rqsr66PsfZjxUZC_0AFQBG3OEGyJhynbykxbbj0Kpt7WXOh0-_O_L-0ApLh-3alYOqfJxg0P0VDM0JNMDwsZKBzQMejJ5mS5j-2A3iUA_5uVfxjdxrpsH1dM9ii8aXtv96qEggajv1Ys8c1RFWrHSL7bNdFAay1s4un0Ft3AQcB0SUcQcQB54RuoiJn5xM_Rctuu9dBai-kKDJyUv_c-KPWXbYXGeNCVFEu-r56maAx7KaCrSoxtDU55o46SmGL096P7w1uncGiplV9v6K0s-6kFoxGAs0X-JnSz3yOovcVdE1QtIaAOUKtLginJgUOoxLiEfVLDZI5nf66zJd7er3GnqAGZpSdKcmAeQvpDSGUdOJHzoT-2_D4WHzA0wzLZalIk5I7ZKdRXEMe9xhADq09f542dmXVrnwJs-qJP9bPM5khPDwEU7_2ylo3jEJHoIODtMAvVS8OCePiRslV2P-ZdAkdFgzlfIRnxO-7tcUSlmyOwIry2tOuwe65T_f-qQYlxf4KotBMuJ1e1V1unTv4qF6Lt2Pxc8WhJpA6tusSpctCW7LaodU4FcALhgswEwdYOo_2hJmhoaDHnLNdjkKN9UsrhuPyABKgl1cy13ZXN0LTIwgwk.m3u8
 #EXTINF:-1 tvg-id="RadioKitaTV.id" tvg-logo="https://i.imgur.com/Dz3BzBe.png" group-title="TV Daerah",RadioKita TV 
 https://h1.intechmedia.net/intech/ch16.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="TV Daerah",RCTV 
@@ -127,14 +119,14 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_high.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tLNrQqr/simpang5tv.png" group-title="TV Daerah",Simpang5 TV 
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.ibb.co/s5NSTHf/tegartv.png" group-title="TV Daerah",Tegar TV Lampung 
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.ibb.co/s5NSTHf/tegartv.png" group-title="TV Daerah",Tegar TV Jogja
+http://wms.klikhost.com/tegarjogja/tegarjogja/chunklist_w582212461.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7C6K7nL/arektv.png" group-title="TV Daerah",Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mn3GWhv/lingkartv.png" group-title="TV Daerah",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwCgqqh/dutatv.png" group-title="TV Daerah",Duta TV
-https://o1.siar.us/dutatv/live/chunks.m3u8
+https://v2.siar.us/dutatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
 http://37.49.225.197:8080/F31068/8fd17683/157478
