@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids",TRT Cocuk
-trtcocuk.live.trt.com.tr/master_720.m3u8
+https://trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qPGMgc/elshinta.png" group-title="Nasional",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s12/index.m3u8
@@ -64,8 +64,6 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3vjmXZ/loventure.png" group-title="Education",LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FB9GM6F/badv.png" group-title="Education",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNBzsmz/wired2fish.png" group-title="Education",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
