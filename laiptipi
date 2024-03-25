@@ -12,17 +12,17 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJ6wQdJ/indonesiana.png" group-title="Nasional",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RX76W2/K.png" group-title="Movies",K+ ID
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2599FP0/k.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",&Flix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41XrLXL/Flix.png" group-title="Movies",&Flix
 http://89.187.177.137:8081/&FLIX/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",&Prive
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wB4MLbJ/Prive.png" group-title="Movies",&Prive
 http://89.187.177.137:8081/&PRIVE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema Europe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5nKqXg/MCE.png" group-title="Movies",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Movies",Shanghai Dragon
+#EXTINF:0 tvg-logo="https://i.ibb.co/VV90gqR/Shanghai.png" group-title="Movies",Shanghai Dragon
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Movies",Xingxong Tv
+#EXTINF:0 tvg-logo="https://i.ibb.co/Qb16bjJ/xingxong.png" group-title="Movies",Xingxong Tv
 http://210.210.155.37/qwr9ew/s/s64/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
