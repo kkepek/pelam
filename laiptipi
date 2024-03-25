@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="Kids",PBS Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZXJw9n/PBS-Kids.png" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qPGMgc/elshinta.png" group-title="Nasional",Elshinta TV
@@ -65,17 +65,17 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNBzsmz/wired2fish.png" group-title="Education",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",V2 Beats
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Fp2FVY/v2beats.png" group-title="Music",V2 Beats
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",M20
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jV67b4n/m20.png" group-title="Music",M20
 https://streamcdnh2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",Rock TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RyL43hz/RockTV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDrZsKQ/play.png" group-title="Music",K-Pop TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mGHJjjp/K-Pop.png" group-title="Music",K-Pop TV
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Music",STINGRAY Classica
+#EXTINF:0 tvg-logo="https://i.ibb.co/1zG1RZT/Stingray.png" group-title="Music",Stingray Classica
 http://210.210.155.35:80/uq2663/h/h229/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV 90S
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phPxL8G/mtv90.png" group-title="Music",MTV 90S
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
 lay.png" group-title="TV Daerah",Sampit TV 
