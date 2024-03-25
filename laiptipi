@@ -32,7 +32,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bXCSL5/sbssports.png" group-title="Sports",SBS Sports   
 http://176868.cloud/0110e370b9649038212e4ab507486e2a/343cef9d126e1a2327fd4842328b89f3/4aedb74052b45637fee91842fd47f2c0/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SBS Sports (Alternative)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bXCSL5/sbssports.png" group-title="Sports",SBS Sports (Alternative)
 http://176868.cloud/6c2b496ffc842f6f90f0d7d08839a5cf/343cef9d126e1a2327fd4842328b89f3/304e77d23bff65dd7de30ab3816c88e8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bJ1Wy9y/KBSsports.png" group-title="Sports", KBS SPORT
 http://176868.cloud/238309b625bc4938557052426b76d931/343cef9d126e1a2327fd4842328b89f3/6a82114ce7174e8d7edc97ef1e740731/index.m3u8
