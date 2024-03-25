@@ -137,23 +137,21 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://o1.siar.us/dutatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
-http://xtv.ooo:8080/77135/95649/352082
+http://37.49.225.197:8080/F31068/8fd17683/171968
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
-https://ktpremium.com:443/A1270/3388/26011
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
-http://xtv.ooo:8080/77135/95649/352083
+http://37.49.225.197:8080/F31068/8fd17683/157565
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
-http://xtv.ooo:8080/77135/95649/352084
+http://37.49.225.197:8080/F31068/8fd17683/157489
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
-http://xtv.ooo:8080/77135/95649/352085
+http://37.49.225.197:8080/F31068/8fd17683/157467
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
-http://xtv.ooo:8080/77135/95649/352086
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
-http://xtv.ooo:8080/77135/95649/352092
-#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Xiao Tai Yang
-http://xtv.ooo:8080/77135/95649/352093
+http://176868.cloud/68d95e1f651ec878b2fbb3b1c6ef7944/343cef9d126e1a2327fd4842328b89f3/f975f36622a9e6bfe574d1da91eb59b7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
-https://ktpremium.com:443/A1270/3388/25828
+http://176868.cloud/9ae50ab0efa034f9e6b0e43b3c60225a/343cef9d126e1a2327fd4842328b89f3/aa4219931d3e8eb208bcee78f2ef866d/index.m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
@@ -177,14 +175,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV 3
-https://ktpremium.com:443/A1270/3388/912827
+http://37.49.225.197:8080/F31068/8fd17683/158360
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV 6
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
 https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
-https://ktpremium.com:443/A1270/3388/25813
+http://37.49.225.197:8080/F31068/8fd17683/171953
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHbHWDd/skyarena.png" group-title="VIP Sports", Sky Sports Arena
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
