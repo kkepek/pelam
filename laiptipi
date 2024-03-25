@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids",TRT Cocuk
-https://trtcocuk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qPGMgc/elshinta.png" group-title="Nasional",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s12/index.m3u8
@@ -22,9 +20,9 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:0 tvg-logo="" title="Movies",Shanghai Dragon
+#EXTINF:0 tvg-logo="" group-title="Movies",Shanghai Dragon
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:0 tvg-logo="" title="Movies",Xingxong Tv
+#EXTINF:0 tvg-logo="" group-title="Movies",Xingxong Tv
 http://210.210.155.37/qwr9ew/s/s64/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvvHmTN/KBS-World.png" group-title="Entertainment",KBS World 2
