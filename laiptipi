@@ -137,7 +137,7 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://o1.siar.us/dutatv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
-http://37.49.225.197:8080/F31068/8fd17683/171968
+http://37.49.225.197:8080/F31068/8fd17683/157478
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
 http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
