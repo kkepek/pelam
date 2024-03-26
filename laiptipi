@@ -200,7 +200,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN62FDx/skyepl.png" group-title="VIP Sports",Sky Sport EPL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sky Sport Calcio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ryyspsL/skycalcio.png" group-title="VIP Sports",Sky Sport Calcio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gj0RPDJ/Canal-Sport1.png" group-title="VIP Sports",Canal+ 1 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
@@ -226,17 +226,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213641&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC Sport 2 FR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 1 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4jDwxw/eleven1.png" group-title="VIP Sports",Eleven Sport 1 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461186&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 2 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB72Mq0/eleven2.png" group-title="VIP Sports",Eleven Sport 2 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461188&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 3 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7CHz3P/eleven3.png" group-title="VIP Sports",Eleven Sport 3 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461190&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 4 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yWXjf8v/eleven4.png" group-title="VIP Sports",Eleven Sport 4 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461192&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 5 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9cqdQNb/eleven5.png" group-title="VIP Sports",Eleven Sport 5 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461194&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Eleven Sport 6 PT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyYMvN2/eleven6.png" group-title="VIP Sports",Eleven Sport 6 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461196&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 1 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308126&extension=ts
