@@ -67,6 +67,11 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yNBzsmz/wired2fish.png" group-title="Education",Wired 2 Fish
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Religi",Qur'an TV
+http://210.210.155.37/x6bnqe/s/s28/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Religi",Sunnah TV
+http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Fp2FVY/v2beats.png" group-title="Music",V2 Beats
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jV67b4n/m20.png" group-title="Music",M20
