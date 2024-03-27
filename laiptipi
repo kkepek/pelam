@@ -245,17 +245,17 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308127&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308128&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 4 NL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308129&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports", Vamos Movistar+ ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPjZqFT/vamosm.png" group-title="VIP Sports", Vamos Movistar+ ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55528&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ La Liga ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VV3vY0Y/laligamovistar.png" group-title="VIP Sports",Movistar+ La Liga ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55531&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ La Liga ES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VV3vY0Y/laligamovistar.png" group-title="VIP Sports",Movistar+ La Liga ES HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55530&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",Movistar+ Liga De Campeones ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPFkp9B/campeonesmvstar.png" group-title="VIP Sports",Movistar+ Liga De Campeones ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55533&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",M+ Deportes ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N5BnjH/Deportesmvstar.png" group-title="VIP Sports",M+ Deportes ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55545&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="VIP Sports",M+ Golf ES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vM0q4F/golfm.png" group-title="VIP Sports",M+ Golf ES
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55548&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 1 PT
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461174&extension=ts
