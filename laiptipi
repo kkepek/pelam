@@ -124,7 +124,7 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv_high.m3u8
 http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFYvCJn/simpang5.png" group-title="TV Daerah",Simpang5 TV 
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.ibb.co/s5NSTHf/tegartv.png" group-title="TV Daerah",Tegar TV Jogja
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-logo="https://i.ibb.co/Qv9g7BG/tegartvjogja.png" group-title="TV Daerah",Tegar TV Jogja
 http://wms.klikhost.com/tegarjogja/tegarjogja/chunklist_w582212461.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DWxydS9/arektv.png" group-title="TV Daerah",Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
