@@ -104,9 +104,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hB5ytGh/madutv.png" group-title="TV Daerah",Madu TV 
 https://v6.siar.us/madutv/hd720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3hB2KV0/mgstv.png" group-title="TV Daerah",MGSTV 
+#EXTINF:-1 tvg-logo="" group-title="TV Daerah",MGSTV 
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tCy9gQJ/pujatv.png" group-title="TV Daerah",Puja TV Aceh 
+#EXTINF:-1 tvg-logo="" group-title="TV Daerah",Puja TV Aceh 
 https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvQbQBN/UGTV.png" group-title="TV Daerah",UGTV 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_mid.m3u8
