@@ -17,9 +17,9 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2599FP0/k.png" group-title="Movies",K+ ID
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41XrLXL/Flix.png" group-title="Movies",&Flix
-http://89.187.177.137:8081/&FLIX/index.m3u8
+#http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wB4MLbJ/Prive.png" group-title="Movies",&Prive
-http://89.187.177.137:8081/&PRIVE/index.m3u8
+#http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5nKqXg/MCE.png" group-title="Movies",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/VV90gqR/Shanghai.png" group-title="Movies",Shanghai Dragon
