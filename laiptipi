@@ -185,151 +185,151 @@ https://ktpremium.com:443/A1270/3388/912830
 http://37.49.225.197:8080/F31068/8fd17683/171953
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHbHWDd/skyarena.png" group-title="VIP Sports", Sky Sports Arena
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jV8VYpD/skymainevent.png" group-title="VIP Sports",Sky Sport Main Event
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97135_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97135_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN62FDx/skyepl.png" group-title="VIP Sports",Sky Sport EPL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bzfqwVP/skysportfootball.png" group-title="VIP Sports",Sky Sport Football
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93wsCy8/skyF1.png" group-title="VIP Sports",Sky Sport F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97141_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93wsCy8/skyF1.png" group-title="VIP Sports",Sky Sport MotoGP
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=56602&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YQYttzs/skymix.png" group-title="VIP Sports",Sky Sport Mix
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97128_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dWK653Q/skymax.png" group-title="VIP Sports",Sky Sport Max
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56617_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bzfqwVP/skysportfootball.png" group-title="VIP Sports",Sky Sport Football
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97139_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN62FDx/skyepl.png" group-title="VIP Sports",Sky Sport EPL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97137_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ryyspsL/skycalcio.png" group-title="VIP Sports",Sky Sport Calcio
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=56623_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gj0RPDJ/Canal-Sport1.png" group-title="VIP Sports",Canal+ 1 AF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368899_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pr4Wwct/Canal-Sport2.png" group-title="VIP Sports",Canal+ 2 AF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457084_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsCqL4z/Canal-Sport3.png" group-title="VIP Sports",Canal+ 3 AF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=368901_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdhNzTK/Canal-Sport4.png" group-title="VIP Sports",Canal+ 4 AF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457086_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrtFHDz/Canal-Sport5.png" group-title="VIP Sports",Canal+ 5 AF
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=457087_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FJnGPf2/arenasport1.png" group-title="VIP Sports",Arena Sport 1 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213637&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213637&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kM1H2YL/arenasport2.png" group-title="VIP Sports",Arena Sport 2 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213638&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213638&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XytZfqC/arenasport3.png" group-title="VIP Sports",Arena Sport 3 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213639&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213639&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkh5t3p/arenasport4.png" group-title="VIP Sports",Arena Sport 4 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213640&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213640&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RC3TL7X/arenasport5.png" group-title="VIP Sports",Arena Sport 5 HR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213641&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=213641&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvqtMKf/rmcsport1.png" group-title="VIP Sports", RMC Sport 1 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59057_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VN6Lxhw/rmcsport2.png" group-title="VIP Sports", RMC Sport 2 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59058_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4jDwxw/eleven1.png" group-title="VIP Sports",Eleven Sport 1 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461186&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461186&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB72Mq0/eleven2.png" group-title="VIP Sports",Eleven Sport 2 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461188&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461188&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d7CHz3P/eleven3.png" group-title="VIP Sports",Eleven Sport 3 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461190&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461190&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yWXjf8v/eleven4.png" group-title="VIP Sports",Eleven Sport 4 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461192&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461192&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9cqdQNb/eleven5.png" group-title="VIP Sports",Eleven Sport 5 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461194&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461194&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyYMvN2/eleven6.png" group-title="VIP Sports",Eleven Sport 6 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461196&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461196&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 1 NL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308126&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308126&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 2 NL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308127&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308127&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 3 NL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308128&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308128&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports", ESPN 4 NL
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308129&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=308129&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gPjZqFT/vamosm.png" group-title="VIP Sports", Vamos Movistar+ ES
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55528&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55528&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VV3vY0Y/laligamovistar.png" group-title="VIP Sports",Movistar+ La Liga ES
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55531&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55531&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VV3vY0Y/laligamovistar.png" group-title="VIP Sports",Movistar+ La Liga ES HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55530&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55530&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QPFkp9B/campeonesmvstar.png" group-title="VIP Sports",Movistar+ Liga De Campeones ES
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55533&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55533&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7N5BnjH/Deportesmvstar.png" group-title="VIP Sports",M+ Deportes ES
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55545&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55545&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vM0q4F/golfm.png" group-title="VIP Sports",M+ Golf ES
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55548&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=55548&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 1 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461174&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461174&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 2 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461176&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461176&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 3 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461178&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461178&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 4 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461180&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461180&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 5 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461182&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461182&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV 6 PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461183&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461183&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="VIP Sports",Sport TV NBA PT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461184&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=461184&extension=ts
 
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 1 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59306&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59306&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 2 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59307&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59307&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 3 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59308&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59308&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 4 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59309&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59309&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 5 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59310&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59310&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 6 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59311&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59311&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 7 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59312&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59312&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 8 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192760&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192760&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 1 AR HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192767&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192767&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport PREMIUM 1 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192758&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192758&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport PREMIUM 2 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192757&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192757&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport PREMIUM 3 AR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192756&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=192756&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 1 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 2 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 3 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 4 MAX FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 5 MAX FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 6 MAX FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068_&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 1 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59062&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 2 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59063&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 3 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59064&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 4 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59066&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 5 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59067&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 6 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59068&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 7 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59069&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59069&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 8 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59070&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59070&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 9 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59071&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59071&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="BeiN AIS",BeiN Sport 10 MAX
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59065&extension=ts
+#http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=59065&extension=ts
