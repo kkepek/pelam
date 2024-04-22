@@ -126,7 +126,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3
 
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
-http://37.49.225.197:8080/F31068/8fd17683/157478
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29657
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
 http://mytv-extra.com:80/t12mgxyb335/9832948789/29626
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
@@ -136,11 +136,11 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/29654
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400438338
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
-http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=306310_&extension=m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
-http://176868.cloud/68d95e1f651ec878b2fbb3b1c6ef7944/343cef9d126e1a2327fd4842328b89f3/f975f36622a9e6bfe574d1da91eb59b7/index.m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29660
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
-http://176868.cloud/9ae50ab0efa034f9e6b0e43b3c60225a/343cef9d126e1a2327fd4842328b89f3/aa4219931d3e8eb208bcee78f2ef866d/index.m3u8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5232
 #EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
