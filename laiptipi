@@ -173,6 +173,41 @@ https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
 http://37.49.225.197:8080/F31068/8fd17683/171953
 
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 3
+http://176868.cloud/afc04440fd09a2905a60ee12691cb73d/ea967d623d200d0ff4e50afcadd7b58e/72ca8305d08d55730fee1568a364682d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 4
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110768&extension=ts&play_token=qkr00GBRAc
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 5
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=926768&extension=ts&play_token=qkr00GBRAc
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 6
+https://epg.pw/stream/1e685077d3e610f7a39cef6f0559fd1e8c6bcbc2c136d92e5ed829934536ec97.ctv
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 7
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=227271&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 8
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=913376&extension=ts&play_token=qkr00GBRAc
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, LIVE 9 
+http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=312129&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, AFC 1
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, AFC 2
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, AFC 3
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, AFC 4
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS, AFC 5
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHbHWDd/skyarena.png" group-title="VIP Sports", Sky Sports Arena
 #http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jV8VYpD/skymainevent.png" group-title="VIP Sports",Sky Sport Main Event
