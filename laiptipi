@@ -126,87 +126,53 @@ https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3
 
 
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Awani
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29657
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/29657
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",Astro Boo
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29626
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/29626
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Cricket
-http://37.49.225.197:8080/F31068/8fd17683/157565
+#http://37.49.225.197:8080/F31068/8fd17683/157565
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Oasis
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29654
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/29654
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Prima
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400438338
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/400438338
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Ria
-http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro Vaanavil
-http://mytv-extra.com:80/t12mgxyb335/9832948789/29660
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/29660
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Awesome tv
-http://mytv-extra.com:80/t12mgxyb335/9832948789/5232
+#http://mytv-extra.com:80/t12mgxyb335/9832948789/5232
 #EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-logo="",RTB Sukmaindera
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
+#https://d1211whpimeups.cloudfront.net/smil:rtb1/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="Sukan RTM" tvg-logo="",Sukan RTM
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",TV Ikim
-https://ktpremium.com:443/A1270/3388/656644
+#https://ktpremium.com:443/A1270/3388/656644
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",Okey TV
-https://ktpremium.com:443/A1270/3388/25875
+#https://ktpremium.com:443/A1270/3388/25875
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv1.my" tvg-logo="",TV 1
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv2.my" tvg-logo="",TV 2
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv3.my" tvg-logo="",TV 3
-http://37.49.225.197:8080/F31068/8fd17683/158360
+#http://37.49.225.197:8080/F31068/8fd17683/158360
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="TV6" tvg-logo="",TV 6
 #EXTVLCOPT:http-referrer="https://rtmklik.rtm.gov.my/"
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd?id=6
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="8tv.my" tvg-logo="",TV 8
-https://ktpremium.com:443/A1270/3388/912830
+#https://ktpremium.com:443/A1270/3388/912830
 #EXTINF:-1 tvg-logo="" group-title="Malaysia" tvg-id="tv9.my" tvg-logo="",TV 9
-http://37.49.225.197:8080/F31068/8fd17683/171953
+#http://37.49.225.197:8080/F31068/8fd17683/171953
 
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 3
-http://176868.cloud/afc04440fd09a2905a60ee12691cb73d/ea967d623d200d0ff4e50afcadd7b58e/72ca8305d08d55730fee1568a364682d/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 4
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=110768&extension=ts&play_token=qkr00GBRAc
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 5
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=926768&extension=ts&play_token=qkr00GBRAc
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 6
-https://epg.pw/stream/1e685077d3e610f7a39cef6f0559fd1e8c6bcbc2c136d92e5ed829934536ec97.ctv
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 7
-http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=227271&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 8
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:3e:54:a6&stream=913376&extension=ts&play_token=qkr00GBRAc
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", LIVE 9 
-http://dreamsmart.me:8080/play/live.php?mac=00:1A:79:20:34:1F&stream=312129&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", AFC 1
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", AFC 2
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", AFC 3
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", AFC 4
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Backup TIMNAS", AFC 5
-https://raw.githubusercontent.com/Arrasyid22/sportarab/main/afc5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHbHWDd/skyarena.png" group-title="VIP Sports", Sky Sports Arena
 #http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97130_&extension=ts
