@@ -143,7 +143,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/5232
 #EXTINF:-1 group-title="Malaysia" tvg-id="Aneka" tvg-logo="",RTB Aneka
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
-https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
+#https://d1211whpimeups.cloudfront.net/smil:rtb2/manifest.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="GoLive" tvg-logo="",RTB Go Live
 #EXTVLCOPT:http-referrer="https://www.rtbgo.bn/"
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/manifest.mpd
